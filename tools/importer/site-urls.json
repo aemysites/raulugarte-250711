@@ -1245,12 +1245,6 @@
       "id": "ca504015f876322f42d506c6fcb6f9e2a8ce5b53"
     },
     {
-      "url": "https://www.telekom.com/de/blog/konzern/artikel/gemeinsam-baggern-510388",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/konzern/artikel/gemeinsam-baggern-510388",
-      "id": "5a008516e13bd547849f184e9c948ee1195f5ef6"
-    },
-    {
       "url": "https://www.telekom.com/de/blog/konzern/artikel/geschaeftsjahr-2010-so-sieht-s-der-chef-64440",
       "source": "CRAWL",
       "targetPath": "/de/blog/konzern/artikel/geschaeftsjahr-2010-so-sieht-s-der-chef-64440",
@@ -2349,12 +2343,6 @@
       "id": "310ce5afd4c84642ceca8678f34980bb6dad9dce"
     },
     {
-      "url": "https://www.telekom.com/de/blog/netz/artikel/dem-kupfer-folgt-glas-alle-antworten-auf-fragen-zur-netzumstellung--1033214",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/netz/artikel/dem-kupfer-folgt-glas-alle-antworten-auf-fragen-zur-netzumstellung-1033214",
-      "id": "acfaf245096b856e6018460a4603cbec33fd8edb"
-    },
-    {
       "url": "https://www.telekom.com/de/blog/netz/artikel/der-mr-glasfaser-der-telekom-alle-fragen-und-antworten-zum-schnellen-netz-1031548",
       "source": "CRAWL",
       "targetPath": "/de/blog/netz/artikel/der-mr-glasfaser-der-telekom-alle-fragen-und-antworten-zum-schnellen-netz-1031548",
@@ -2763,12 +2751,6 @@
       "id": "9045310d8fbed1f4df05f902419e9d5d58e5c6fc"
     },
     {
-      "url": "https://www.telekom.com/de/blog/netz/artikel/mobilfunk-maste-unterschiede-585362",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/netz/artikel/mobilfunk-maste-unterschiede-585362",
-      "id": "6f6cfaf704dcb11ee3d70c197b5c2bcbcff4eaa7"
-    },
-    {
       "url": "https://www.telekom.com/de/blog/netz/artikel/mobilfunk-mehr-power-und-tempo-auf-einer-neuen-datenautobahn-646250",
       "source": "CRAWL",
       "targetPath": "/de/blog/netz/artikel/mobilfunk-mehr-power-und-tempo-auf-einer-neuen-datenautobahn-646250",
@@ -2803,12 +2785,6 @@
       "source": "CRAWL",
       "targetPath": "/de/blog/netz/artikel/mobilfunk-vesorgung-grenze-schweiz-578774",
       "id": "e026e9e8f94a46ca795c77e17e52c853be0965f2"
-    },
-    {
-      "url": "https://www.telekom.com/de/blog/netz/artikel/mobilfunkausbau-so-lange-dauert-es-von-der-planung-bis-zum-betrieb-65578",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/netz/artikel/mobilfunkausbau-so-lange-dauert-es-von-der-planung-bis-zum-betrieb-65578",
-      "id": "caf3c687554b03852683f8b34083ca418be40383"
     },
     {
       "url": "https://www.telekom.com/de/blog/netz/artikel/mobilfunkausbau-zukunft-2018-2019-534552",
@@ -2919,12 +2895,6 @@
       "id": "15c6ca6bc289378e22491f9b37218884ed4550b0"
     },
     {
-      "url": "https://www.telekom.com/de/blog/netz/artikel/small-cell-antennen-aus-der-schweiz-wer-hat-s-erfunden--579624",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/netz/artikel/small-cell-antennen-aus-der-schweiz-wer-hat-s-erfunden-579624",
-      "id": "1c06e4b5e948787e9bd5460a3bea7eaa37e29f43"
-    },
-    {
       "url": "https://www.telekom.com/de/blog/netz/artikel/so-bleibt-ihre-alarmanlage-nach-der-ip-umstellung-sicher-65562",
       "source": "CRAWL",
       "targetPath": "/de/blog/netz/artikel/so-bleibt-ihre-alarmanlage-nach-der-ip-umstellung-sicher-65562",
@@ -3025,12 +2995,6 @@
       "source": "CRAWL",
       "targetPath": "/de/blog/netz/artikel/telekom-kunden-fragen-der-herr-der-netze-antwortet-546170",
       "id": "fdd6a75028a07df5edbb1950da2da3cd14aa1567"
-    },
-    {
-      "url": "https://www.telekom.com/de/blog/netz/artikel/telekom-lager-der-turmbau-zu-kabel-1026604",
-      "source": "CRAWL",
-      "targetPath": "/de/blog/netz/artikel/telekom-lager-der-turmbau-zu-kabel-1026604",
-      "id": "978a85f51604b9d7975455725ac6c0d9d3aea13d"
     },
     {
       "url": "https://www.telekom.com/de/blog/netz/artikel/telekom-setzt-ip-umstellung-kundenorientiert-um-593040",
@@ -3495,6 +3459,12 @@
       "id": "cd45b83e0386510efb6cd6177121944bc2df24ac"
     },
     {
+      "url": "https://www.telekom.com/de/investor-relations/details/abstimmungsergebnisse-der-deutschen-telekom-ag-hauptversammlung-am-03-mai-2010-in-koeln--337168",
+      "source": "CRAWL",
+      "targetPath": "/de/investor-relations/details/abstimmungsergebnisse-der-deutschen-telekom-ag-hauptversammlung-am-03-mai-2010-in-koeln-337168",
+      "id": "dd6caaac29b20bc854eb2a8d7df3b55178c1abd0"
+    },
+    {
       "url": "https://www.telekom.com/de/investor-relations/details/abstimmungsergebnisse-der-deutschen-telekom-ag-hauptversammlung-am-12-mai-2011-in-koeln-334920",
       "source": "CRAWL",
       "targetPath": "/de/investor-relations/details/abstimmungsergebnisse-der-deutschen-telekom-ag-hauptversammlung-am-12-mai-2011-in-koeln-334920",
@@ -3883,12 +3853,6 @@
       "source": "CRAWL",
       "targetPath": "/de/investor-relations/details/unterlagen-zu-tagesordnungspunkt-10-334982",
       "id": "24f434870a53a9c214f6c69a42a86aa487eb9c97"
-    },
-    {
-      "url": "https://www.telekom.com/de/investor-relations/details/unterlagen-zu-tagesordnungspunkt-10-337530",
-      "source": "CRAWL",
-      "targetPath": "/de/investor-relations/details/unterlagen-zu-tagesordnungspunkt-10-337530",
-      "id": "30dc04db1575c4ce5a41769b5ecdb608564a3154"
     },
     {
       "url": "https://www.telekom.com/de/investor-relations/details/unterlagen-zu-tagesordnungspunkt-10-337582",
@@ -5343,22 +5307,10 @@
       "id": "1efd732eacdeef99cf7f966fd396f3b284a49f9e"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/baumanager-m-w-d-_30_232098",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/jobsuche/jobangebot/baumanager-m-w-d-30-232098",
-      "id": "6b733720b33cba0492812ae36ddcda7cd86e4c5f"
-    },
-    {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/baumanager-m-w-d-tiefbau-strassenbau_30_231149",
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/baumanager-m-w-d-tiefbau-strassenbau-30-231149",
       "id": "bc18ce3d4dabc07fb620af9ac02a3da08145a398"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/communications-expert_30_231250",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/jobsuche/jobangebot/communications-expert-30-231250",
-      "id": "a07945089ee47ad0221ecd924c106d4f28c8665a"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/consultant-ai-security-m-w-d-_30_232113",
@@ -5407,6 +5359,12 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/lead-sap-architect-m-w-d-30-229587",
       "id": "6223d72775ba0c7f1ee985e91710a5719a80f746"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/mergers-and-acquisitions-manager-m-w-d-_30_231348",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/mergers-and-acquisitions-manager-m-w-d-30-231348",
+      "id": "64ff75045b7a70dec3f4435c3bda0260ffceb533"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/onesfa-global-product-owner-m-f-n-_30_231247",
@@ -5485,6 +5443,12 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/praktikum-strategy-consulting-30-231178",
       "id": "367ca0a321696f20ec9b6e4f96e0b52b61f9fe2c"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/principal-it-project-manager-m-w-d-_30_231343",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/principal-it-project-manager-m-w-d-30-231343",
+      "id": "a3dd1937e5efeeb44b78864ed878388d7273d807"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/principal-project-manager-transition-transformation-m-w-d-_30_227880",
@@ -5577,12 +5541,6 @@
       "id": "178c25a83c7ea86d8f4dd8382f675459553d1245"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/senior-java-developer-architect-m-w-d_30_230711",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/jobsuche/jobangebot/senior-java-developer-architect-m-w-d-30-230711",
-      "id": "34f65136a4cb719983e54ce8ed2974b58725fb7c"
-    },
-    {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/senior-projektmanager-markets-and-innovation-m-w-d-_30_231169",
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/senior-projektmanager-markets-and-innovation-m-w-d-30-231169",
@@ -5599,6 +5557,12 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/senior-sap-technology-consultant-developer-m-w-d-30-229589",
       "id": "7f91e2acf38405003537d84bbbcfb9c4385a66d9"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/senior-system-engineer-m-w-d-radio-access-network_30_232276",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/senior-system-engineer-m-w-d-radio-access-network-30-232276",
+      "id": "7550a362ca587ebe4ae6dfe1a2adede7b86d56e9"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/senior-vertragsmanager-m-w-d-mobilfunk_30_231369",
@@ -5631,10 +5595,28 @@
       "id": "725391d01415cc4d3e6786e3f222f3c066fff022"
     },
     {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/system-engineer-m-w-d-oran-mobilfunk_30_232282",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/system-engineer-m-w-d-oran-mobilfunk-30-232282",
+      "id": "fcdfa390af11e31fded31121140f410d0ff2b8c7"
+    },
+    {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/system-engineer-m-w-d-senior-mobilfunk_30_232266",
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/system-engineer-m-w-d-senior-mobilfunk-30-232266",
       "id": "2d2310f7009fd1a45aa95109dbe99e3e1c9afe86"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/technical-consultant-system-integration-support-m-w-d-_30_232278",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/technical-consultant-system-integration-support-m-w-d-30-232278",
+      "id": "015f552e2d8fc57e3abd86de4814171db912753c"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/telcomms-site-manager_30_231333",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/telcomms-site-manager-30-231333",
+      "id": "a2233195466fc7d6fdaffd6c0410ade3eea97000"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/tiefbaufacharbeiter-m-w-d-tiefbau-glasfaser_30_219173",
@@ -5727,12 +5709,6 @@
       "id": "4ed69ce30b50c24a515b5baf3dc7b024499c1aa0"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/werkstudent-in-fraenk-content-creation-m-w-d-_30_231234",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/jobsuche/jobangebot/werkstudent-in-fraenk-content-creation-m-w-d-30-231234",
-      "id": "ca44528b37004e97c2c9396127a3d9223458ebc7"
-    },
-    {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/werkstudent-in-manufacturing-design-m-w-d-_30_231357",
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/werkstudent-in-manufacturing-design-m-w-d-30-231357",
@@ -5761,6 +5737,12 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/jobsuche/jobangebot/werkstudent-in-unterstuetzung-operation-management-windows-m-w-d-30-232272",
       "id": "f1daddec191ed15ca04fcb2a4a8cf4c31b1ee4a7"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/werkstudent-it-m-w-d-service-desk_30_232274",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/jobsuche/jobangebot/werkstudent-it-m-w-d-service-desk-30-232274",
+      "id": "27583ab1a2d07da115c06e769ee3d86507af941a"
     },
     {
       "url": "https://www.telekom.com/de/karriere/jobsuche/jobangebot/werkstudent-projektmanagement-mit-schwerpunkt-prozessanalyse-m-w-d-_30_231257",
@@ -6237,18 +6219,6 @@
       "id": "0d4d2d8b4edf051f83ebfba5ac1e509ca6d7fc74"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231452",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231452",
-      "id": "fc755c68a2280cf1cf3ee4b4260ce4a217f56338"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231453",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231453",
-      "id": "70692f1a33818103bdf05b407e685e44788f5248"
-    },
-    {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231457",
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231457",
@@ -6259,12 +6229,6 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231459",
       "id": "66f7cc3a4ad399f27290ce7cea0c2b6ca183e6d5"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231462",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231462",
-      "id": "88c532e2552296cc15eea655d24af4f9ad2feb2f"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231466",
@@ -6321,28 +6285,28 @@
       "id": "a34c710d908e6ece58d0f67203b33ce2dbb23e6c"
     },
     {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231836",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231836",
+      "id": "66398b82c0cf0d010af8a0792e52a7d344a95e9b"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231837",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231837",
+      "id": "913922ae6ec6fed791d48eb4c8d523b5ecc27d2c"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_30_231839",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-30-231839",
+      "id": "76f89b0086d4daa2796d15b710ff1773888132cb"
+    },
+    {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_224445",
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-224445",
       "id": "c5642a989763cf356a3fccf399594242d905caf5"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231492",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231492",
-      "id": "002f8c91e43453a8c3a32cb972528427c77248a3"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231510",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231510",
-      "id": "681a07ddd55ef7b7cfa99f4207de3404421bd408"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231521",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231521",
-      "id": "8f72cac680a9ddfad8805493833c143834064459"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231529",
@@ -6367,6 +6331,24 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231573",
       "id": "6e916c7a14f7574d7967b3ac2aef267312e30f17"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231594",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231594",
+      "id": "e0e629ff931ae573a62bf23240ad57e1eb748fff"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231622",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231622",
+      "id": "7d95118806fa1339a751a2fb4feb9f29b192c877"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231653",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231653",
+      "id": "8b514525cc8578e01c1320f1289bc54fa7ab48b9"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231666",
@@ -6405,52 +6387,10 @@
       "id": "59a31bc662c2560b037c1f9dc49c3747f3417c93"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231787",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-30-231787",
-      "id": "e6456218f9b7d700192bc820b91c41d0d47621ff"
-    },
-    {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_224535",
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-224535",
       "id": "10c88a37e4e20306f66e8658d64b18c6a85a6de0"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231491",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231491",
-      "id": "e797677f8105d9cd51febc83ef7c88971f1cdee3"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231504",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231504",
-      "id": "e795ea6c8766d57f48add71ab2b682ff2781c8b4"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231509",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231509",
-      "id": "f377ea9fc987092036e75b79154db98d2ed05b47"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231525",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231525",
-      "id": "d341509e73f99a0438c7220ca50abfdae4f57448"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231542",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231542",
-      "id": "fb1a32418e726e5b31983b0d704707470baeec6e"
-    },
-    {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231551",
-      "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231551",
-      "id": "e143396a424a265da47fd86f5413a77f1fef83f5"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231572",
@@ -6463,6 +6403,42 @@
       "source": "CRAWL",
       "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231577",
       "id": "6e8fe59f63f436c0153cce9af8c8a23e27de1ada"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231708",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231708",
+      "id": "f2de7b76c368feff14e27397c4722311ab9e4d09"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231717",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231717",
+      "id": "27ea6276f9e4d600f61da6f9cf1b7c7d6622f944"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231746",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231746",
+      "id": "2934244fea4a3887ab14da8a47ac89ee9e3bce90"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231752",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231752",
+      "id": "fc06c6e1d821f854fb61e3d8f845a9bdf27f8754"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231757",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231757",
+      "id": "ffab2d2ea46c51308790f61c6852dce5df852edd"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231761",
+      "source": "CRAWL",
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-30-231761",
+      "id": "fd3a31d13107c06b0caba3a6025085a926f2d299"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_30_231765",
@@ -6801,28 +6777,28 @@
       "id": "95ea4ef322bee25b42e2f57bb21e2178f5a0d7eb"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231912",
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231897",
       "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231912",
-      "id": "1153982d7a5605991a575b001271db16db738360"
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231897",
+      "id": "cc849cde03973cca0fc432cdf81b684cc3303577"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231913",
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231898",
       "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231913",
-      "id": "faa62e63c8b5869583b9d582a4f989d0545682ae"
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231898",
+      "id": "ba9d9f5aa984a9917357300ca2a398b88cbe5f8d"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231914",
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231899",
       "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231914",
-      "id": "24208e086cc0f40be1fff16bbf25c9e358e0b0db"
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231899",
+      "id": "98f44888013e32eda9ffb110b44b103698732728"
     },
     {
-      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231915",
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231900",
       "source": "CRAWL",
-      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231915",
-      "id": "f6e0bb30a446a47f81bd49f5ef62184145f120eb"
+      "targetPath": "/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-30-231900",
+      "id": "77a34502c69095fc4c1ff0a27897f5260dd197a0"
     },
     {
       "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/duales-studium-wirtschaftsinformatik-m-w-d-_30_231916",
@@ -8523,12 +8499,6 @@
       "id": "c3bb93919138485541102c141e0172e95f2e213c"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/bad-ditzenbach-telekom-schliesst-funkloch-1084154",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/bad-ditzenbach-telekom-schliesst-funkloch-1084154",
-      "id": "592477f4f0ed0052aa228a858016868b22d47c6b"
-    },
-    {
       "url": "https://www.telekom.com/de/konzern/details/basteln-im-arp-museum-510062",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/basteln-im-arp-museum-510062",
@@ -8851,12 +8821,6 @@
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/die-magentatv-viererkette-1056322",
       "id": "05fbb0a10a313e1758e5c5df073c5f43aed5f96d"
-    },
-    {
-      "url": "https://www.telekom.com/de/konzern/details/die-neun-wichtigsten-fakten-zu-lte-604990",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/die-neun-wichtigsten-fakten-zu-lte-604990",
-      "id": "5e12c8720a801a8ee2f1d4c8be42e481dd970eeb"
     },
     {
       "url": "https://www.telekom.com/de/konzern/details/die-pandemie-als-katalysator-der-digitalisierung-631414",
@@ -9309,12 +9273,6 @@
       "id": "df768abea8eeac30237851240d8045c6dbd60ea3"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/erste-glasfaserkunden-netz-der-stadtwerke-weinstadt-1068700",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/erste-glasfaserkunden-netz-der-stadtwerke-weinstadt-1068700",
-      "id": "4b48c5431bf2ba96d61235a3ba5b57d0b70f28fc"
-    },
-    {
       "url": "https://www.telekom.com/de/konzern/details/erste-kunden-in-sindelfingen-surfen-im-neuen-glasfasernetz-1061954",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/erste-kunden-in-sindelfingen-surfen-im-neuen-glasfasernetz-1061954",
@@ -9447,12 +9405,6 @@
       "id": "f47778b2880f4794898fca6b9fd60fb9711dd92e"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/gefoerderter-glasfaserausbau-startet-in-geislingen-an-der-steige-1093382",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/gefoerderter-glasfaserausbau-startet-in-geislingen-an-der-steige-1093382",
-      "id": "d0844bf19ce256baee3c5f4882246ce508f784d8"
-    },
-    {
       "url": "https://www.telekom.com/de/konzern/details/gegen-hass-im-netz-augen-auf-1092962",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/gegen-hass-im-netz-augen-auf-1092962",
@@ -9565,12 +9517,6 @@
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/glasfaseranschluesse-machen-unternehmen-zukunftsfaehig-583314",
       "id": "95368b70baf515304d0a7271bd7cecb543e45363"
-    },
-    {
-      "url": "https://www.telekom.com/de/konzern/details/glasfaserausbau-in-kaisersbach-macht-grosse-fortschritte-1049860",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/glasfaserausbau-in-kaisersbach-macht-grosse-fortschritte-1049860",
-      "id": "1dc49a1152322e4fbe366ff0ec77f63b244c3490"
     },
     {
       "url": "https://www.telekom.com/de/konzern/details/glasfaserausbau-startet-in-wolfschlugen-599204",
@@ -10173,12 +10119,6 @@
       "id": "8a42b48a619c93c36d6bec2fcb4a1e3543a1cb94"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/naechste-stufe-im-glasfaserausbau-fuer-winnenden-1029048",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/naechste-stufe-im-glasfaserausbau-fuer-winnenden-1029048",
-      "id": "5e9fd25ae79160f2f06d2d9b7da6dc10c49db894"
-    },
-    {
       "url": "https://www.telekom.com/de/konzern/details/natural-language-understanding-561810",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/natural-language-understanding-561810",
@@ -10407,12 +10347,6 @@
       "id": "fe3092c49d9a514298d5d21f299dbf4ed1428c66"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/rems-murr-kreis-wir-haben-geliefert--1022842",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/rems-murr-kreis-wir-haben-geliefert-1022842",
-      "id": "f19006c7d5a16dc7b9c4cc90dd564e85e89cd127"
-    },
-    {
       "url": "https://www.telekom.com/de/konzern/details/resilienz-in-der-industrie-cloud-638396",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/resilienz-in-der-industrie-cloud-638396",
@@ -10515,6 +10449,12 @@
       "id": "c371db75798a4f1a41c97f83f91fc50e85eb0a54"
     },
     {
+      "url": "https://www.telekom.com/de/konzern/details/smart-home-der-ueberblick-639014",
+      "source": "CRAWL",
+      "targetPath": "/de/konzern/details/smart-home-der-ueberblick-639014",
+      "id": "68e97236b53f0d41e916f6c0955f09c13791ce89"
+    },
+    {
       "url": "https://www.telekom.com/de/konzern/details/smart-home-zieht-ein-494382",
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/smart-home-zieht-ein-494382",
@@ -10597,12 +10537,6 @@
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/start-ups-sind-wichtige-treiber-fuer-die-digitalisierung-525280",
       "id": "babef6c1302468da1799b23fab1ee5ead2b4179b"
-    },
-    {
-      "url": "https://www.telekom.com/de/konzern/details/stetig-steigender-datenbedarf-erfordert-mehr-frequenzen-fuer-mobilfunk-1057790",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/stetig-steigender-datenbedarf-erfordert-mehr-frequenzen-fuer-mobilfunk-1057790",
-      "id": "f759128825b6db96dfe236042f792d4f3e2a4a4a"
     },
     {
       "url": "https://www.telekom.com/de/konzern/details/stoerung-in-frankfurt-behoben-1026420",
@@ -11017,12 +10951,6 @@
       "source": "CRAWL",
       "targetPath": "/de/konzern/details/was-tun-wenn-das-wlan-nicht-funktioniert-1061888",
       "id": "160a10d96c29a10402e8a05f165fa1d0307b73c6"
-    },
-    {
-      "url": "https://www.telekom.com/de/konzern/details/weisser-fleck-im-sandland-ist-vergangenheit-1063528",
-      "source": "CRAWL",
-      "targetPath": "/de/konzern/details/weisser-fleck-im-sandland-ist-vergangenheit-1063528",
-      "id": "ddc2e63d4e59c6223cca62779c98f273155c143d"
     },
     {
       "url": "https://www.telekom.com/de/konzern/details/weitere-kooperationen-bei-vdsl-vermarktung-334330",
@@ -15723,12 +15651,6 @@
       "id": "4b91c5b707fd17e01ad470f26d936e39e91ee58a"
     },
     {
-      "url": "https://www.telekom.com/de/medien/mediencenter/fotos/vorstand-deutsche-telekom-ag",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/mediencenter/fotos/vorstand-deutsche-telekom-ag",
-      "id": "722cd362585a7fc45898deca3464fe715e763da1"
-    },
-    {
       "url": "https://www.telekom.com/de/medien/mediencenter/infografiken",
       "source": "CRAWL",
       "targetPath": "/de/medien/mediencenter/infografiken",
@@ -17475,12 +17397,6 @@
       "id": "1cb2dc9735da353ccccc4d6bf037ba40e0804435"
     },
     {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/das-neue-zentrum-fuer-das-internet-der-dinge-602478",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/das-neue-zentrum-fuer-das-internet-der-dinge-602478",
-      "id": "302b00b99f806b64f2cca3626b38bf331d6bbfff"
-    },
-    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/data-analytics-t-systems-prognostiziert-abfahrtszeiten-fuer-deutsche-bahn-435398",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/data-analytics-t-systems-prognostiziert-abfahrtszeiten-fuer-deutsche-bahn-435398",
@@ -18681,6 +18597,12 @@
       "id": "98a8f7e3f5289e38aa91df3f05089e2df7806e97"
     },
     {
+      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/europas-groesster-telekom-shop-in-hamburg-eroeffnet-1032716",
+      "source": "CRAWL",
+      "targetPath": "/de/medien/medieninformationen/detail/europas-groesster-telekom-shop-in-hamburg-eroeffnet-1032716",
+      "id": "842eeef5208aa786c605bc0e55f9635ed3a584fc"
+    },
+    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/europas-wohlstand-haengt-am-erfolg-der-digitalisierung-349144",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/europas-wohlstand-haengt-am-erfolg-der-digitalisierung-349144",
@@ -19053,12 +18975,6 @@
       "id": "5b0b820d7fc12ae95c6890423d91e7d7e36d9a66"
     },
     {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/glasfaser-fuer-landkreis-goeppingen-1092942",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/glasfaser-fuer-landkreis-goeppingen-1092942",
-      "id": "d284398166ff0b69f8eae1be370d84fa74c677eb"
-    },
-    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/glasfaser-fuer-ludwigsburg-1002704",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/glasfaser-fuer-ludwigsburg-1002704",
@@ -19155,12 +19071,6 @@
       "id": "74a3736f4d5f4e84d5f54821560e35c544be4255"
     },
     {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/glasfaserausbau-im-rems-murr-kreis-macht-fortschritte-1055476",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/glasfaserausbau-im-rems-murr-kreis-macht-fortschritte-1055476",
-      "id": "004b7c6a64be9b76554821421919444ff8ac2c28"
-    },
-    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/glasfaserausbau-in-der-gigabit-region-stuttgart-1039414",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/glasfaserausbau-in-der-gigabit-region-stuttgart-1039414",
@@ -19237,12 +19147,6 @@
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/gruene-angebote-fuer-geschaeftskundinnen-648840",
       "id": "528122c2bd6079cc1382b31a3982e06af8343912"
-    },
-    {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/gruenes-licht-fuer-4g-netztechnik-startklar-in-brandenburg-334744",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/gruenes-licht-fuer-4g-netztechnik-startklar-in-brandenburg-334744",
-      "id": "fc7397eeb0d1e8f221bb6e9c42636c45a668ce35"
     },
     {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/gsma-und-die-deutsche-telekom-white-paper-haps-630786",
@@ -19623,6 +19527,12 @@
       "id": "3ed37c08f58b959524e2852954720227d68e5480"
     },
     {
+      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/kooperation-zwischen-stadtwerken-karlsruhe-und-telekom-1094762",
+      "source": "CRAWL",
+      "targetPath": "/de/medien/medieninformationen/detail/kooperation-zwischen-stadtwerken-karlsruhe-und-telekom-1094762",
+      "id": "921b6189159903d88aba6bfa9ba5291695862dfc"
+    },
+    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/kostenlose-sim-karten-fuer-gefluechtete-aus-der-ukraine-650244",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/kostenlose-sim-karten-fuer-gefluechtete-aus-der-ukraine-650244",
@@ -19663,12 +19573,6 @@
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/licht-aus-fuer-atm-und-gbe-spot-an-fuer-ip-595976",
       "id": "19737b9ff7d80ec26a5010eac743aaaefafbe03b"
-    },
-    {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/line-up-steht-zartmann-kommt-zur-grossen-telekom-party-1094060",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/line-up-steht-zartmann-kommt-zur-grossen-telekom-party-1094060",
-      "id": "7f595055875692ab7791bec955fc20b0a370e31e"
     },
     {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/live-tv-mit-5g-network-slicing-1014662",
@@ -22383,12 +22287,6 @@
       "id": "06cedffb5286e8e61c10dc4c6f63168db3a9fe09"
     },
     {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/telekom-stellt-auf-strom-aus-erneuerbaren-energien-um-567214",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/telekom-stellt-auf-strom-aus-erneuerbaren-energien-um-567214",
-      "id": "04d5b7acaaf24c78b2d12eb52395d045dfeb928f"
-    },
-    {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/telekom-stellt-gespraeche-in-die-tuerkei-und-nach-syrien-kostenfrei-1025842",
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/telekom-stellt-gespraeche-in-die-tuerkei-und-nach-syrien-kostenfrei-1025842",
@@ -22753,12 +22651,6 @@
       "source": "CRAWL",
       "targetPath": "/de/medien/medieninformationen/detail/telekom-veranstaltet-zweiten-equal-esports-cup-fuer-mehr-chancengleichheit-1063480",
       "id": "8c6898c399b9c29ac1e507e408b6a6ca52808ebc"
-    },
-    {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/telekom-verbessert-mobilfunkversorgung-im-sandland-1022026",
-      "source": "CRAWL",
-      "targetPath": "/de/medien/medieninformationen/detail/telekom-verbessert-mobilfunkversorgung-im-sandland-1022026",
-      "id": "ca862036551750f0ea7db1a9e85b3e84c46e143b"
     },
     {
       "url": "https://www.telekom.com/de/medien/medieninformationen/detail/telekom-verbindet-deutschland-auch-vor-ort-trotz-corona-598104",
@@ -26541,18 +26433,6 @@
       "id": "0f5d08aee9ec9d76498e72c25bf2cad35b7dacf6"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231452",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231452",
-      "id": "d204214654c8a7db85346743ff65be4e34c3bccd"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231453",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231453",
-      "id": "a3fcbb22f633cbe6e2975e1ff6c97046188fd4e9"
-    },
-    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231457",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231457",
@@ -26563,12 +26443,6 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231459",
       "id": "07659275e2aa6532c2d50f9e162b1ab2c5c4ee47"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231462",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231462",
-      "id": "16f625eef8dc5a7818ba7005f84332eb7de262f6"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231466",
@@ -26625,28 +26499,28 @@
       "id": "26bafac222ec4d7ba188e18a8a09bc7e9647b730"
     },
     {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231836",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231836",
+      "id": "2b801284972a030cfcfe74abf184ab5d87b2eb8d"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231837",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231837",
+      "id": "4fd7b26c2b25f162e1409158a5e7295ac40ff3d0"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-_558520_231839",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-fachinformatiker-fuer-systemintegration-m-w-d-558520-231839",
+      "id": "c5eb37043f5065ba2176e3f522b345e6c4ae7ca1"
+    },
+    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_224445",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-224445",
       "id": "83f5d3be785879776e365892f440dea575c313a8"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231492",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231492",
-      "id": "68f63fdbb0d8c0c0c239d5ca4c52ae6c1eb477e0"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231510",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231510",
-      "id": "849a8ddedf052f6f65d05c6c1fb005699d09cca0"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231521",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231521",
-      "id": "5cb10e06ca681baed671f55ed3124895a4c95151"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231529",
@@ -26671,6 +26545,24 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231573",
       "id": "1dd51799c7b36df2918ae8a8a7d9da2acc456de8"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231594",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231594",
+      "id": "12844198064504b1a313d1c0fbeec9571c2a0604"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231622",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231622",
+      "id": "c789d92fba6b9fdce5ff4e4c66cc3e34d13a1b0c"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231653",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231653",
+      "id": "c328e57b84fe31c5871caa594144d7491db8e5c0"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231666",
@@ -26709,52 +26601,10 @@
       "id": "661db5d5f7330f7e3dd811926c638f49ca69dd77"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_558520_231787",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-558520-231787",
-      "id": "d04fde56b41febec0e7a8fa25001a83508eecdcf"
-    },
-    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_224535",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-224535",
       "id": "f375339f16b6a25adff24df9f8a809e8487a024a"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231491",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231491",
-      "id": "1fe20a615e526846f1f9807be9203a7af88c240d"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231504",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231504",
-      "id": "d37ac4339f581d844ca4b9da9ad1f1c46855ffcc"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231509",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231509",
-      "id": "3796c1c976c65cdc4daa94acf5ccbb83549c8a0a"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231525",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231525",
-      "id": "455f901aa42f061eafc8bac134ff347fc3dbab7a"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231542",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231542",
-      "id": "762ba230e3386ce94d45a948ff8ed1a197c488d8"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231551",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231551",
-      "id": "f610b907609aa3f14ce0d836c4efa531e9287b7e"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231572",
@@ -26767,6 +26617,42 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231577",
       "id": "72a5a69c75e33ce78265f275494058b3c30cae80"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231708",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231708",
+      "id": "a205ef22c39a40586ee687dddf65f6d9931922df"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231717",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231717",
+      "id": "732dae94b579880e77f332d3afbd36750d5c26d5"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231746",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231746",
+      "id": "3de62a4bf235da4fce1cf86fb31447ae2f95a839"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231752",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231752",
+      "id": "d95bad3748c7cb960b60b7c2c21df078a24cdc35"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231757",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231757",
+      "id": "5569ff28529ad67c960ce3c73f1b3ba7197220a4"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231761",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-558520-231761",
+      "id": "2bd7637c3dd3aa206376808388ae7953894d166e"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/ausbildung-zum-kaufmann-fuer-dialogmarketing-m-w-d-_558520_231765",
@@ -27105,28 +26991,28 @@
       "id": "8068266cb1963a50c0905943b04e60ae84227026"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231912",
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231897",
       "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231912",
-      "id": "79222f6135b55d3718c23e41cb6c507353d3e7ab"
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231897",
+      "id": "4147b60508f7ed8ac8bdb4bc2cec72609daae2b1"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231913",
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231898",
       "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231913",
-      "id": "860c38b9910e586460e04115c40ebe6282c59fad"
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231898",
+      "id": "bbb0228d72de561314119b91c58030e12d1ff4f5"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231914",
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231899",
       "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231914",
-      "id": "65c146afdfa4d910fec07cee80946b57ea7c2045"
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231899",
+      "id": "6ad4757ffcbb55945a0febdbbd2d5932d4fe3af7"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231915",
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231900",
       "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231915",
-      "id": "6b84af7a3b05c1be044e7197f4e182548116c25e"
+      "targetPath": "/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-558520-231900",
+      "id": "7215ea357d492f4a8f92867b179b794b184fbca4"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer-pupils/duales-studium-wirtschaftsinformatik-m-w-d-_558520_231916",
@@ -27165,22 +27051,10 @@
       "id": "a9360a93c54ee3c76c2732f91ae0e508e4da5fcc"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/baumanager-m-w-d-_558520_232098",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer/baumanager-m-w-d-558520-232098",
-      "id": "6428d6d423814948cb6e7f60f2f415dbe2ee011a"
-    },
-    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/baumanager-m-w-d-tiefbau-strassenbau_558520_231149",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/baumanager-m-w-d-tiefbau-strassenbau-558520-231149",
       "id": "2103e7f59491d6d1c843d9e406fab20b3ecc209a"
-    },
-    {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/communications-expert_558520_231250",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer/communications-expert-558520-231250",
-      "id": "c3604444309c0a4c28fe704615c0eafdb0be14a3"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/consultant-ai-security-m-w-d-_558520_232113",
@@ -27229,6 +27103,12 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/lead-sap-architect-m-w-d-558520-229587",
       "id": "96fcac454624629a4c6413e2f7f018225c259a9a"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/mergers-and-acquisitions-manager-m-w-d-_558520_231348",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/mergers-and-acquisitions-manager-m-w-d-558520-231348",
+      "id": "97bbf785669a85a7849bef43bd460c093b95b4a5"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/onesfa-global-product-owner-m-f-n-_558520_231247",
@@ -27307,6 +27187,12 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/praktikum-strategy-consulting-558520-231178",
       "id": "7fbe55bffd3d735f64e52fea6e60342f075dd763"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/principal-it-project-manager-m-w-d-_558520_231343",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/principal-it-project-manager-m-w-d-558520-231343",
+      "id": "2c112edb104a1fbbc7bdf071476e1d153a132dd4"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/principal-project-manager-transition-transformation-m-w-d-_558520_227880",
@@ -27399,12 +27285,6 @@
       "id": "cf75afdf31828a0d213140e643aa3a7c80d8cb93"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/senior-java-developer-architect-m-w-d_558520_230711",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer/senior-java-developer-architect-m-w-d-558520-230711",
-      "id": "9109c6ce07c7da0e4fb3df0bd8640a8384941c7b"
-    },
-    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/senior-projektmanager-markets-and-innovation-m-w-d-_558520_231169",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/senior-projektmanager-markets-and-innovation-m-w-d-558520-231169",
@@ -27421,6 +27301,12 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/senior-sap-technology-consultant-developer-m-w-d-558520-229589",
       "id": "8668bd621005acaacd3c6c910a3e22b748abd413"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/senior-system-engineer-m-w-d-radio-access-network_558520_232276",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/senior-system-engineer-m-w-d-radio-access-network-558520-232276",
+      "id": "4d88e04128b8fa60a70d2bb5585b6c000aa97bd1"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/senior-vertragsmanager-m-w-d-mobilfunk_558520_231369",
@@ -27453,10 +27339,28 @@
       "id": "fa4081d206b22c7a953694c4a39b25f2193b7a5e"
     },
     {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/system-engineer-m-w-d-oran-mobilfunk_558520_232282",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/system-engineer-m-w-d-oran-mobilfunk-558520-232282",
+      "id": "b90ec236145c6b920379261f7ca02236759225d4"
+    },
+    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/system-engineer-m-w-d-senior-mobilfunk_558520_232266",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/system-engineer-m-w-d-senior-mobilfunk-558520-232266",
       "id": "082dd308f8eadaa9bd8dedabb0912bdd4b285241"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/technical-consultant-system-integration-support-m-w-d-_558520_232278",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/technical-consultant-system-integration-support-m-w-d-558520-232278",
+      "id": "dcef79004f68048a10fc2a223a1c1c6deebc339b"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/telcomms-site-manager_558520_231333",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/telcomms-site-manager-558520-231333",
+      "id": "2d7185504e3e3e8e86c0feb1c4fec6da1877a2d7"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/tiefbaufacharbeiter-m-w-d-tiefbau-glasfaser_558520_219173",
@@ -27549,12 +27453,6 @@
       "id": "4d04c439eab5a359539acaccae8db4e8593a7321"
     },
     {
-      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/werkstudent-in-fraenk-content-creation-m-w-d-_558520_231234",
-      "source": "CRAWL",
-      "targetPath": "/en/careers/jobsearch/joboffer/werkstudent-in-fraenk-content-creation-m-w-d-558520-231234",
-      "id": "f9bcd268aa554b82064f30a87198ec376ce64d28"
-    },
-    {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/werkstudent-in-manufacturing-design-m-w-d-_558520_231357",
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/werkstudent-in-manufacturing-design-m-w-d-558520-231357",
@@ -27583,6 +27481,12 @@
       "source": "CRAWL",
       "targetPath": "/en/careers/jobsearch/joboffer/werkstudent-in-unterstuetzung-operation-management-windows-m-w-d-558520-232272",
       "id": "b2edf3f1e90802952d72e5ed213b4565ee8f7959"
+    },
+    {
+      "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/werkstudent-it-m-w-d-service-desk_558520_232274",
+      "source": "CRAWL",
+      "targetPath": "/en/careers/jobsearch/joboffer/werkstudent-it-m-w-d-service-desk-558520-232274",
+      "id": "7c5825842333a25f22cd22850a9f1e358b3773e1"
     },
     {
       "url": "https://www.telekom.com/en/careers/jobsearch/joboffer/werkstudent-projektmanagement-mit-schwerpunkt-prozessanalyse-m-w-d-_558520_231257",
@@ -28317,12 +28221,6 @@
       "id": "a568377cb7cf45f1ed7a6f95eea388f9147f6b0b"
     },
     {
-      "url": "https://www.telekom.com/en/company/compliance/code-of-conduct",
-      "source": "CRAWL",
-      "targetPath": "/en/company/compliance/code-of-conduct",
-      "id": "a02007c02b8da15f90bb6d0262c9b7d5924efa38"
-    },
-    {
       "url": "https://www.telekom.com/en/company/compliance/code-of-conduct/details/avoiding-other-conflicts-of-interest-497060",
       "source": "CRAWL",
       "targetPath": "/en/company/compliance/code-of-conduct/details/avoiding-other-conflicts-of-interest-497060",
@@ -28339,6 +28237,12 @@
       "source": "CRAWL",
       "targetPath": "/en/company/compliance/code-of-conduct/details/compliance-with-rules-of-behavior-497082",
       "id": "ca4b896fd21db0844176afe9d878a0b504680149"
+    },
+    {
+      "url": "https://www.telekom.com/en/company/compliance/code-of-conduct/details/corporate-governance-497056",
+      "source": "CRAWL",
+      "targetPath": "/en/company/compliance/code-of-conduct/details/corporate-governance-497056",
+      "id": "ad6a79f61e8705ea1fcc9e5acd32eb0c2c5b5236"
     },
     {
       "url": "https://www.telekom.com/en/company/compliance/code-of-conduct/details/further-information-497092",
@@ -29107,12 +29011,6 @@
       "source": "CRAWL",
       "targetPath": "/en/company/data-privacy-and-security/viewpoints",
       "id": "80fe8dfbbc88a68a6aeb3173f3cb15edc2806c70"
-    },
-    {
-      "url": "https://www.telekom.com/en/company/details",
-      "source": "CRAWL",
-      "targetPath": "/en/company/details",
-      "id": "49224d66d7b091cad31ed29a0872468e6560e410"
     },
     {
       "url": "https://www.telekom.com/en/company/details/-a-qr-code-for-traveling-1003198",
@@ -30811,12 +30709,6 @@
       "source": "CRAWL",
       "targetPath": "/en/company/details/what-does-resilience-mean-for-companies-630754",
       "id": "d0c29f1850679a0c5b1ca2e0a492915251ecc5ec"
-    },
-    {
-      "url": "https://www.telekom.com/en/company/details/what-is-5g-basic-information-on-the-network-of-the-future-542354",
-      "source": "CRAWL",
-      "targetPath": "/en/company/details/what-is-5g-basic-information-on-the-network-of-the-future-542354",
-      "id": "361b9b56dd4e051dab86d1ac108e1116f1609900"
     },
     {
       "url": "https://www.telekom.com/en/company/details/what-is-cloud-computing-1064146",
@@ -35841,12 +35733,6 @@
       "id": "5267a1b4579361f89ff38399734dcf473e18658e"
     },
     {
-      "url": "https://www.telekom.com/en/investor-relations/shareholders-meeting/frequently-asked-questions",
-      "source": "CRAWL",
-      "targetPath": "/en/investor-relations/shareholders-meeting/frequently-asked-questions",
-      "id": "fd596e449e69d2313cd48910a8493815fbea8dc5"
-    },
-    {
       "url": "https://www.telekom.com/en/media",
       "source": "CRAWL",
       "targetPath": "/en/media",
@@ -37365,12 +37251,6 @@
       "id": "b80dcb2d1be2e613c3a8aa8bedbb03eca1a749a7"
     },
     {
-      "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-enters-into-an-agreement-to-secure-undisputed-ownership-over-polish-mobile-operator-ptc--353542",
-      "source": "CRAWL",
-      "targetPath": "/en/media/media-information/archive/deutsche-telekom-enters-into-an-agreement-to-secure-undisputed-ownership-over-polish-mobile-operator-ptc-353542",
-      "id": "c78fea485ba9a58294bce4a836f7559179fe6936"
-    },
-    {
       "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-enters-partnership-for-gd-towers-1011598",
       "source": "CRAWL",
       "targetPath": "/en/media/media-information/archive/deutsche-telekom-enters-partnership-for-gd-towers-1011598",
@@ -37603,6 +37483,12 @@
       "source": "CRAWL",
       "targetPath": "/en/media/media-information/archive/deutsche-telekom-offers-managed-network-services-for-microsoft-azure-598406",
       "id": "c70bdd9994b2f46615f9363a574197fa0b1f023a"
+    },
+    {
+      "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-on-track-to-meet-its-full-year-targets-in-2011-353568",
+      "source": "CRAWL",
+      "targetPath": "/en/media/media-information/archive/deutsche-telekom-on-track-to-meet-its-full-year-targets-in-2011-353568",
+      "id": "66b104a48bffd8d08d8e653b343585d588b6b8a2"
     },
     {
       "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-opens-quantum-research-lab-1047874",
@@ -41527,6 +41413,10 @@
   },
   "extractionErrors": [
     {
+      "url": "https://www.telekom.com/de/konzern/partnering",
+      "status": "301 Moved Permanently Redirect: https://www.telekom.com/de"
+    },
+    {
       "url": "https://www.telekom.com/gegenantraege",
       "status": "301 Moved Permanently Redirect: https://www.telekom.com/de/investor-relations/details/gegenantraege-und-wahlvorschlaege-gemaess-126-127-aktg-zur-ordentlichen-hauptversammlung-der-deutschen-telekom-ag-am-9-april-2025-1086618"
     },
@@ -41599,10 +41489,6 @@
       "status": "302 Found Redirect: https://www.telekom.com/de/investor-relations/finanzkalender"
     },
     {
-      "url": "https://www.telekom.com/hv",
-      "status": "302 Found Redirect: https://www.telekom.com/de/investor-relations/hauptversammlung"
-    },
-    {
       "url": "https://www.telekom.com/de/investor-relations/privatanleger/newsletter-fuer-privataktionaere",
       "status": "302 Found Redirect: https://www.telekom.com/de/investor-relations/privatanlegenden/newsletter-fuer-privataktionaere"
     },
@@ -41653,10 +41539,6 @@
     {
       "url": "https://www.telekom.com/de/kontaktformulare/investor-relations-digitalx",
       "status": "302 Found Redirect: https://www.telekom.com/de/kontaktformulare/investor-relations-digitalx-2022"
-    },
-    {
-      "url": "https://www.telekom.com/de/konzern/partnering",
-      "status": "302 Found Redirect: https://www.telekom.com/de/konzern"
     },
     {
       "url": "https://www.telekom.com/de/konzern/details/teilnahmebedingungen-5g-summer-camp-gewinnspiel-631484",
@@ -41983,10 +41865,6 @@
       "status": "302 Found Redirect: https://www.telekom.com/en/company/data-privacy-and-security/digitally-secure"
     },
     {
-      "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/digitally-secure/details/how-to-find-a-strong-and-secure-password-543436",
-      "status": "302 Found Redirect: https://www.telekom.com/en/company/data-privacy-and-security/digitally-secure/details/how-to-find-a-strong-and-secure-password-543436"
-    },
-    {
       "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/digitally-secure/details/two-factor-authentication-543736",
       "status": "302 Found Redirect: https://www.telekom.com/en/company/data-privacy-and-security/digitally-secure/details/two-factor-authentication-543736"
     },
@@ -42077,6 +41955,10 @@
     {
       "url": "https://www.telekom.com/en/media/mediacenter/media-kits/mediakits/media-kit-hannover-messe-2019",
       "status": "302 Found Redirect: https://www.telekom.com/en/media/mediacenter/media-kits/mediakits"
+    },
+    {
+      "url": "https://www.telekom.com/en/media/mediacenter/publications",
+      "status": "302 Found Redirect: https://www.telekom.com/en/media/publications"
     },
     {
       "url": "https://www.telekom.com/kompania/njoftime-per-shtyp/",
@@ -43087,10 +42969,6 @@
       "status": "content type is not text/html"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/332838/40593bc97676d911515365d5eef32b3f/dl-160225-q4-presentation-backup-xls-data.xlsx",
-      "status": "content type is not text/html"
-    },
-    {
       "url": "https://www.telekom.com/resource/blob/332846/bf12c4a23641347d1e1de901f3cc85da/dl-160225-consensus-xls-en-data.xlsx",
       "status": "content type is not text/html"
     },
@@ -43168,6 +43046,10 @@
     },
     {
       "url": "https://www.telekom.com/resource/blob/330078/928cf2c5f50ab9d84ea7f84aad6ed77d/dl-130629-consensus-xls-en-data.xlsx",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.telekom.com/resource/blob/330038/8b02493bda715437ef7a03498c4bdbb5/dl-130508-q1-presentation-backup-xls-data.xls",
       "status": "content type is not text/html"
     },
     {
@@ -43324,6 +43206,10 @@
     },
     {
       "url": "https://www.telekom.com/resource/blob/329564/7555fab1cfbf007bd465859837cc2bf7/dl-090227-dtag-gb08-workforce-development-data.xls",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.telekom.com/resource/blob/329536/0df99cab4af3e7de49cb6c6943c3b644/dl-090227-dtag-gb08-net-debt-data.xls",
       "status": "content type is not text/html"
     },
     {
@@ -43579,6 +43465,10 @@
       "status": "content type is not text/html"
     },
     {
+      "url": "https://www.telekom.com/resource/blob/329514/7f2522f9aaf95545ebd8461c1738b452/dl-071108-02-earnings-per-share-xls-data.xls",
+      "status": "content type is not text/html"
+    },
+    {
       "url": "https://www.telekom.com/resource/blob/329512/328653d180f0db87d98cbc6f8450a1c8/dl-071108-03-consolidated-balance-sheet-xls-data.xls",
       "status": "content type is not text/html"
     },
@@ -43792,10 +43682,6 @@
     },
     {
       "url": "https://www.telekom.com/resource/blob/329246/c58a3969827baec1077a64320a98c481/dl-070301-annual-report-2006-presentation-backup-xls-data.xls",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://www.telekom.com/resource/blob/329342/3aef1056d94e10d345b76ec58c824121/dl-01-xls-data.xls",
       "status": "content type is not text/html"
     },
     {
@@ -44659,6 +44545,10 @@
       "status": "content type is not text/html"
     },
     {
+      "url": "https://www.telekom.com/resource/blob/317464/132a3339d4bcf6ca4de09c982046d688/dl-081106-q3-xls-zip-data.zip",
+      "status": "content type is not text/html"
+    },
+    {
       "url": "https://www.telekom.com/resource/blob/317432/695fb5ba985c0ba7bd2ed7a8b0636c46/dl-081106-q3-praesentation-backup-xls-zip-data.zip",
       "status": "content type is not text/html"
     },
@@ -45052,6 +44942,10 @@
     },
     {
       "url": "https://www.telekom.com/resource/blob/317044/aa5a1c08c5eb7635eb82ce701818df97/dl-070301-stag-gb06-tabellen-data.zip",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.telekom.com/resource/blob/317038/c58a3969827baec1077a64320a98c481/dl-070301-fy-2006-presentation-xls-data.xls",
       "status": "content type is not text/html"
     },
     {
@@ -45775,51 +45669,95 @@
       "status": "content type is not text/html"
     },
     {
-      "url": "https://www.telekom.com/en/company/compliance/code-of-conduct/details/corporate-governance-497056",
+      "url": "https://www.telekom.com/en/company/compliance/code-of-conduct",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/330038/8b02493bda715437ef7a03498c4bdbb5/dl-130508-q1-presentation-backup-xls-data.xls",
+      "url": "https://www.telekom.com/en/company/details/what-is-5g-basic-information-on-the-network-of-the-future-542354",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/en/glossary",
+      "url": "https://www.telekom.com/ajax/de/1082530",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-on-track-to-meet-its-full-year-targets-in-2011-353568",
+      "url": "https://www.telekom.com/de/investor-relations/finanzpublikationen/finanzergebnisse/finanzergebnisse-2005",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/329536/0df99cab4af3e7de49cb6c6943c3b644/dl-090227-dtag-gb08-net-debt-data.xls",
+      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/line-up-steht-zartmann-kommt-zur-grossen-telekom-party-1094060",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/329514/7f2522f9aaf95545ebd8461c1738b452/dl-071108-02-earnings-per-share-xls-data.xls",
+      "url": "https://www.telekom.com/de/medien/mediencenter/fotos/vorstand-deutsche-telekom-ag",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/de/konzern/details/smart-home-der-ueberblick-639014",
+      "url": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-enters-into-an-agreement-to-secure-undisputed-ownership-over-polish-mobile-operator-ptc--353542",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/317464/132a3339d4bcf6ca4de09c982046d688/dl-081106-q3-xls-zip-data.zip",
+      "url": "https://www.telekom.com/resource/blob/332838/40593bc97676d911515365d5eef32b3f/dl-160225-q4-presentation-backup-xls-data.xlsx",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/resource/blob/317038/c58a3969827baec1077a64320a98c481/dl-070301-fy-2006-presentation-xls-data.xls",
+      "url": "https://www.telekom.com/resource/blob/329342/3aef1056d94e10d345b76ec58c824121/dl-01-xls-data.xls",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/de/investor-relations/details/abstimmungsergebnisse-der-deutschen-telekom-ag-hauptversammlung-am-03-mai-2010-in-koeln--337168",
+      "url": "https://www.telekom.com/en/investor-relations/shareholders-meeting/frequently-asked-questions",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/europas-groesster-telekom-shop-in-hamburg-eroeffnet-1032716",
+      "url": "https://www.telekom.com/de/konzern/details/die-neun-wichtigsten-fakten-zu-lte-604990",
       "status": "fetch failed"
     },
     {
-      "url": "https://www.telekom.com/en/media/mediacenter/publications",
+      "url": "https://www.telekom.com/ajax/en/1031064?modId=%20image%20id19&amp;ratio=landscape_ratio4x3",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/konzern/details/stetig-steigender-datenbedarf-erfordert-mehr-frequenzen-fuer-mobilfunk-1057790",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/telekom-stellt-auf-strom-aus-erneuerbaren-energien-um-567214",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/investor-relations/details/unterlagen-zu-tagesordnungspunkt-10-337530",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/karriere/schueler-jobsuche/jobangebot/ausbildung-zum-kaufmann-fuer-bueromanagement-m-w-d-_30_231787",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/blog/netz/artikel/dem-kupfer-folgt-glas-alle-antworten-auf-fragen-zur-netzumstellung--1033214",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/en/company/details",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/digitally-secure/details/how-to-find-a-strong-and-secure-password-543436",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/ajax/de/1047604?modId=%20image%20id17&amp;ratio=landscape_ratio4x3",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/medien/medieninformationen/detail/das-neue-zentrum-fuer-das-internet-der-dinge-602478",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/ajax/de/643380?modId=%20image%20id19&amp;ratio=landscape_ratio4x3",
+      "status": "fetch failed"
+    },
+    {
+      "url": "https://www.telekom.com/de/blog/konzern/artikel/gemeinsam-baggern-510388",
       "status": "fetch failed"
     }
   ]
