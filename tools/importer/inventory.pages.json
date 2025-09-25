@@ -1,0 +1,458 @@
+{
+  "templates": [
+    {
+      "name": "'Corporate Website Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/en/online-product-catalog/",
+          "uuid": "fac55dfbf5b3cf4b89befcefdd7fae663c1fadff"
+        },
+        {
+          "url": "https://galltec-mela.de/online-produkt-katalog/",
+          "uuid": "f093fa507c71a6f7e6bc465179f35a91cd4b3cc0"
+        },
+        {
+          "url": "https://galltec-mela.de/en/greenhouses/",
+          "uuid": "b006b71f9164aa2d48c7c5d25cc1aa89a147dea0"
+        },
+        {
+          "url": "https://galltec-mela.de/gewaechshaus/",
+          "uuid": "7a8e69f263ca87c7b16620ff6eb225542abaa5d2"
+        },
+        {
+          "url": "https://galltec-mela.de/en/downloads/",
+          "uuid": "9bc5d694c32e261cd6f3cded8fb931366b9d062d"
+        },
+        {
+          "url": "https://galltec-mela.de/downloadbereich/",
+          "uuid": "0cca884f181f2040ea411d5e61f3bb1fa18bbcce"
+        },
+        {
+          "url": "https://galltec-mela.de/en/homepage/",
+          "uuid": "07c0e708adbe904f7a81fc94db03ca9373f13257"
+        },
+        {
+          "url": "https://galltec-mela.de/webshop/",
+          "uuid": "5c6962493f209a0cac10a8ad9151d5f8088d9de4"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/",
+          "uuid": "2f1bfd0f1e56693346b5f7d8edd686da265d303f"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/",
+          "uuid": "d8033c4bf425bff07edd7ff6d7270e0a632ca554"
+        },
+        {
+          "url": "https://galltec-mela.de/en/polyga-fibres/",
+          "uuid": "bb6291782e38c37ff113307d98ce61f317dab27c"
+        },
+        {
+          "url": "https://galltec-mela.de/polyga/",
+          "uuid": "e305ab41522dede4ad389f99b574da5e0b10adf0"
+        },
+        {
+          "url": "https://galltec-mela.de/en/history-of-humidity-measurement/",
+          "uuid": "0b83413fa0c5ef343ad01138b4254d721360a18f"
+        },
+        {
+          "url": "https://galltec-mela.de/geschichte-messtechnik/",
+          "uuid": "d70a233a6ac1df0395521f810da63ac41b64030c"
+        },
+        {
+          "url": "https://galltec-mela.de/en/contact/",
+          "uuid": "ad1f87ed07c374ef1d9fa8e7a0d3abf50f6aca17"
+        },
+        {
+          "url": "https://galltec-mela.de/kontakt/",
+          "uuid": "c922d33c9a5a4d70afe5d02f02ef94938c692764"
+        },
+        {
+          "url": "https://galltec-mela.de/anwendungen/",
+          "uuid": "492954d06f843140cad2ff6d8d3346a7d74f59cf"
+        },
+        {
+          "url": "https://galltec-mela.de/en/applications/",
+          "uuid": "49ca4b9ad75f172991b5d8400b38fc7945ec4208"
+        },
+        {
+          "url": "https://galltec-mela.de/en/humidity-measurement-definitions-terms/",
+          "uuid": "c6033095f04c461eb02d6e906b26649053905197"
+        },
+        {
+          "url": "https://galltec-mela.de/en/capacitive-mela-sensor-chip/",
+          "uuid": "4bf752646f171c22597ccdc1ba21070449adf001"
+        },
+        {
+          "url": "https://galltec-mela.de/kapazitiver-sensor/",
+          "uuid": "9fe5bff3959a5603faf89595b1d1eee47bf3f372"
+        },
+        {
+          "url": "https://galltec-mela.de/feuchtemesstechnik/",
+          "uuid": "cef84ef9eb045020a489be817ed5b359b578b404"
+        },
+        {
+          "url": "https://galltec-mela.de/en/request-for-catalogue/",
+          "uuid": "16a00853750b22809de3bcea368af90a09f5aa41"
+        },
+        {
+          "url": "https://galltec-mela.de/katalog-per-post/",
+          "uuid": "c5e098ff627e1024fa77589635f6d7e80696cadc"
+        },
+        {
+          "url": "https://galltec-mela.de/allgemeine-geschaeftsbedingungen-webshop/",
+          "uuid": "6d438a3f2d799fbf5652c27ab0595f8a2748e11f"
+        },
+        {
+          "url": "https://galltec-mela.de/en/relative-humidity-measurement-technology/",
+          "uuid": "994050956bbd9fc96691ebc0452e73951db919f5"
+        },
+        {
+          "url": "https://galltec-mela.de/ueber-uns/",
+          "uuid": "4fa8cee718787dbd65ee585cfc76a85fdf97bcb7"
+        },
+        {
+          "url": "https://galltec-mela.de/datenschutzerklaerung/",
+          "uuid": "2d48b45eb73d1342879feb994fad575fe89745b9"
+        },
+        {
+          "url": "https://galltec-mela.de/en/privacystatment/",
+          "uuid": "19206848e8c6ca3dd6e6517d062d395d72c0ba88"
+        },
+        {
+          "url": "https://galltec-mela.de/en/service/",
+          "uuid": "6cf3e94c3fc966deb7db12310589e272eea47c05"
+        },
+        {
+          "url": "https://galltec-mela.de/reparaturen-und-service/",
+          "uuid": "18a11ce5ccdde3db9498cb94b985a0c18ea5d6e4"
+        },
+        {
+          "url": "https://galltec-mela.de/allgemeine-geschaeftsbedingungen/",
+          "uuid": "205cea04baa268261f654235022f148274803f1c"
+        },
+        {
+          "url": "https://galltec-mela.de/en/issuer/",
+          "uuid": "fdf33e5852cf0bfb8b70ed419530c05cb1806c87"
+        },
+        {
+          "url": "https://galltec-mela.de/en/general-conditions/",
+          "uuid": "98329b511e1dd3b05b138a503b1e5c02db7880ca"
+        },
+        {
+          "url": "https://galltec-mela.de/en/environmental-compliance/",
+          "uuid": "c5efb9cf0853e7b82612abc203e0f948fcb8bae2"
+        },
+        {
+          "url": "https://galltec-mela.de/fas-datasheets/",
+          "uuid": "beb95ca20ce556b0b4ad99cce7bdd93dc754f5d6"
+        },
+        {
+          "url": "https://galltec-mela.de/impressum/",
+          "uuid": "abae832a4e47d24580d6a46c09e03b0217db782c"
+        },
+        {
+          "url": "https://galltec-mela.de/umwelt-compliance/",
+          "uuid": "9d3c025f42907d1e3f3e63973127bf688c443951"
+        }
+      ]
+    },
+    {
+      "name": "Product Listing Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/en/products/iak-probes-with-analogue-output-and-plug-in-connection/",
+          "uuid": "7c46803bb0f5af2e6ee3a11179a63466be03331a"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/aw-with-remote-probe/",
+          "uuid": "9556d1217ba2e4989c333a02390426d87020b397"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/itk-stainless-steel-probes-with-digital-output-and-robust-head/",
+          "uuid": "62818dd4349485dcba3ad4a6d08509680a68de5c"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/lw-wandmontage-mit-modbus-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+          "uuid": "546973e80fc3a90a419ed1688686ac9a379c160c"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/estat20-sensor-und-hygrostat-in-einem/",
+          "uuid": "c68fde23bdbeab7e65cb4e8bf2580a1105c71730"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/pc-rc-me-analogue-probes-for-meteorology/",
+          "uuid": "5bfaa0b71033cb734f0f6a806a4b69c015d5e5a5"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/robust-analogue-probe-for-humidity-and-temperature-pc-and-pc-s-analogue-probes/",
+          "uuid": "0747095f54ee7a069c49aa576ce363fa90c6f7df"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/humidity-and-temperature-transmitter-optimised-for-hvaclw-wall-mounted/",
+          "uuid": "fcfb7f6f6d2008350bc6c93102a267b076bf33ec"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/irk-probes-with-robust-head/",
+          "uuid": "1007da6975cf9f2599d10d94a97604c7ba63254e"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/pl-stabsensor-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+          "uuid": "15b11f077115ba1356b45359c5b8e8d0bb4a23e1"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/ivk-stainless-steel-probes-with-digital-output-and-plug-in-connection/",
+          "uuid": "4fc802a5f70e615f0b2a6335894f4a2c49ca9345"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/sensors-for-humidity-and-temperature-d-series-room-version-di/",
+          "uuid": "cd3ab04e2ccf32381cbeaf11f5da970ebe38d28d"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/pc-me-and-pc-s-me-analogue-probes-optimized-for-outdoor-meteorology-applications/",
+          "uuid": "89e12f7e65b2477c7229d296d494380c96f9cc7e"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/heavy-duty-transmitters-analogue-output-gc-wall-mounted/",
+          "uuid": "30cb54bc2485e82df03de82dc1b87072936fd50e"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/digital-probe-with-exchangeable-measuring-head-pm15p/",
+          "uuid": "c4b1832020caf72b7a7a68bb9742ca445ca539fb"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/transmitter-fk120-indoor/",
+          "uuid": "ec5ebb08b2bdd70eb041efe1f28c18188853fc12"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/wl-raumversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+          "uuid": "7fec60c0acd45b3f8730be2ec798a3154315d4cd"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/kl-kanalversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+          "uuid": "377285530e0dd03a52858927b360c3a4567f0052"
+        },
+        {
+          "url": "https://galltec-mela.de/produkte/m-serie-mck-miniatursensor-fuer-feuchte-und-temperatur-optimiert-fuer-hlk/",
+          "uuid": "65fe017a6fcb6c677b2ee17685c58f3e5e5d68ed"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/miniature-humidity-and-temperature-sensor-mck/",
+          "uuid": "e45ec794e7e25f5d2f77ad31619c126e98f1cfbb"
+        },
+        {
+          "url": "https://galltec-mela.de/en/products/humidity-sensors-transmitter-fk80-duct-version/",
+          "uuid": "b3852655a8a2ab8daf1c78fc5b5700da4fae8eec"
+        }
+      ]
+    },
+    {
+      "name": "'Comparison Table Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/fr/tous-les-produits/",
+          "uuid": "094403c5233c020101d856b77016788716342507"
+        },
+        {
+          "url": "https://galltec-mela.de/alle-produkte/",
+          "uuid": "724a7336ef60b64698188e906df9a406d5fbce6b"
+        },
+        {
+          "url": "https://galltec-mela.de/en/product-configurator/",
+          "uuid": "7c1fe7ccccfd2a0e1aab7f20edfc0f85dc9bf886"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/ueber-uns/news-und-messen/",
+          "uuid": "683ab6b9a01228fe370363bcf684546b61bdad4f"
+        },
+        {
+          "url": "https://galltec-mela.de/en/about-us/news-profile/",
+          "uuid": "33576e2009c0890628c19ddd1cdb2b84be187091"
+        },
+        {
+          "url": "https://galltec-mela.de/ueber-uns/stellenangebote/",
+          "uuid": "4e3089fcd4d8792f9227fd1f897a6be2688492aa"
+        },
+        {
+          "url": "https://galltec-mela.de/en/about-us/job-offers/",
+          "uuid": "ee0eddd5eb1dc25f520117d09ffc575b7060a6a0"
+        },
+        {
+          "url": "https://galltec-mela.de/en/about-us/code-of-conduct/",
+          "uuid": "0dafab1e40339c01b345dd0fa2e7535638b34905"
+        },
+        {
+          "url": "https://galltec-mela.de/ueber-uns/code-of-conduct/",
+          "uuid": "91e8b0be523ce49cedb67d6255e29a4a40c261b5"
+        },
+        {
+          "url": "https://galltec-mela.de/en/about-us/company-profile-galltec-mess-und-regeltechnik-gmbh/",
+          "uuid": "cc95f537c2f81164fa0c2046b45142fa19eb411c"
+        },
+        {
+          "url": "https://galltec-mela.de/ueber-uns/firmenprofil/",
+          "uuid": "736ba9671f0da840585892acd4736d7ca8d51df6"
+        },
+        {
+          "url": "https://galltec-mela.de/en/about-us/company-profile-mela-sensortechnik-gmbh/",
+          "uuid": "13d035734c1597253322a250d03ce4b00254e10a"
+        },
+        {
+          "url": "https://galltec-mela.de/ueber-uns/mela-sensortechnik-gmbh/",
+          "uuid": "7e7c94d1f9a2cce0caed1e6de9df9829351e303e"
+        }
+      ]
+    },
+    {
+      "name": "'news listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/fr/a-propos-de-nous/news-et-salon/",
+          "uuid": "c715503ea11c8a2b8d32a5cbb273432b67002f72"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/a-propos-de-nous/profil-de-lentreprise-mela-sensortechnik-gmbh/",
+          "uuid": "364550ff86f3a9578a7f1e51de703184f4358221"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/a-propos-de-nous/code-de-conduite/",
+          "uuid": "7f527373c6861b6afdc4ae9ff2a0393ba1ad6056"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/a-propos-de-nous/profil-de-lentreprise-galltec-mess-und-regeltechnik-gmbh/",
+          "uuid": "830928f98057b895aeec288620af0d1ac00250fc"
+        }
+      ]
+    },
+    {
+      "name": "'Homepage Template'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/",
+          "uuid": "08f759694fd949c7cce2c1d76fb899c56c9da95f"
+        }
+      ]
+    },
+    {
+      "name": "'Data Table Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/kontakt/ansprechpartner/",
+          "uuid": "e6286d61859970cf7344896898d9def2da213b31"
+        },
+        {
+          "url": "https://galltec-mela.de/en/contact/contactperson/",
+          "uuid": "d425eae44c5410b00aac66b3c4aed978fdb179ba"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/contact/vos-contacts/",
+          "uuid": "cc542138f888ef733f0fd517221eb61c664395f6"
+        }
+      ]
+    },
+    {
+      "name": "'Data Dashboard'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/kontakt/weltweit/",
+          "uuid": "1a4358fbde550c78dfafb1782df4e4e458099d9f"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/contact/dans-le-monde-entier-nos-distributeurs-internationaux/",
+          "uuid": "7fa9c3f8edb12d09bb8ab171e5d4564e1b2efaf0"
+        },
+        {
+          "url": "https://galltec-mela.de/en/contact/worldwide/",
+          "uuid": "d31ad92d0ceffd49a9bbb56442b171bfa8a0849b"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Multi-Page Template'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://galltec-mela.de/fr/catalogue-de-produits-en-ligne/",
+          "uuid": "1faad065d64adc2ef2dd5e433f8111d341a7ac71"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/telechargement/",
+          "uuid": "84bcd33bf980915c654f7b0d3a4fed79dd11af61"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/votre-partenaire-pour-une-technique-de-mesure-de-lhumidite/",
+          "uuid": "23225181e20afced3075cccf465c84ad3a441ebb"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/produits/",
+          "uuid": "2d1c4b301f2a80d0d468697c6d2b112450a91051"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/fibres-polyga/",
+          "uuid": "1f79b91f9967b686597f73d3d012b685840a6417"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/histoire-de-la-mesure-de-lhumidite/",
+          "uuid": "032a2b76380bcb38fe1d7d26da6bd805b4bdc139"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/contact/",
+          "uuid": "3467fce3a4b90efb541dfa6526b227e3c2997dd2"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/applications/",
+          "uuid": "fb7cd06dead0aaec163c973b289cd9c3f45dc7ab"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/mela-capteurs-capacitifs/",
+          "uuid": "dcbcaeb28668eae0a9eff44935223f63bd3e4c3e"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/technique-de-mesure-de-lhumidite/",
+          "uuid": "7c10f43650f98caf6ce4e74149dd1f9d99916cb9"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/a-propos-de-nous/",
+          "uuid": "24aef803b0cb4d1c10e4bb04a549cd65d13b65c4"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/humidite-de-lair/",
+          "uuid": "18a4b62eb60118d4710fc72ac1bb0782032c361c"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/declaration-de-confidentialite/",
+          "uuid": "11a97cf9ce47c66be9807b8f2635f412d680d108"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/reparation-service/",
+          "uuid": "c5cb46428bfd7cbb6b65d5cb20590d200f2e7800"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/conditions-generales/",
+          "uuid": "ef0794de3a4dfc86524d6533196b171c3d660263"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/conformite-environnementale/",
+          "uuid": "1a22a94a3c1a5b3f3d5b75dc2502fcd31cbfc207"
+        },
+        {
+          "url": "https://galltec-mela.de/fr/mentions-legales/",
+          "uuid": "5526605f9d841b68c0880eb8f354cf41252b2026"
+        }
+      ]
+    }
+  ]
+}
