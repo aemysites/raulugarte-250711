@@ -25,3 +25,175 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+
+.cards.cards31 > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  overflow: auto visible;
+  margin: 0;
+  list-style: none;
+  align-items: flex-start;
+  scroll-snap-type: x mandatory;
+  padding-left: 0;
+  padding-right: 20px;
+  scrollbar-width: thin;
+  scrollbar-color: #e5e8ea #fff;
+}
+
+/* Cards: wider, more like target, more breathing room top/bottom */
+.cards.cards31 > ul > li {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 8px rgb(34 34 34 / 6%);
+  border: none;
+  min-width: 290px;
+  max-width: 310px;
+  width: 290px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  scroll-snap-align: start;
+  margin: 36px 0 24px;
+  padding: 0;
+  transition: box-shadow 0.2s;
+}
+
+/* Card image area: more space above image, keep card vertical rhythm */
+.cards.cards31 .cards-card-image {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  min-height: 90px;
+  margin-top: 38px;
+  margin-bottom: 15px;
+}
+
+.cards.cards31 .cards-card-image:empty {
+  display: none;
+  margin: 0;
+  min-height: 0;
+}
+
+/* Card images: slightly larger for visual balance */
+.cards.cards31 > ul > li img {
+  max-width: 132px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Card content: more vertical padding for balance */
+.cards.cards31 .cards-card-body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 0 32px 32px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+/* Hide 'null' paragraphs */
+.cards.cards31 .cards-card-body > p:first-child {
+  color: transparent;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  min-height: 0;
+  max-height: 0;
+}
+
+/* Headings: more space below heading */
+.cards.cards31 .cards-card-body h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: #222;
+  margin: 0 0 12px;
+  text-align: center;
+  line-height: 1.22;
+}
+
+/* Descriptions */
+.cards.cards31 .cards-card-body > p:not(.button-container) {
+  font-size: 15px;
+  color: #555;
+  text-align: center;
+  margin: 0;
+  line-height: 1.38;
+}
+
+/* Button container: more top margin for breathing room */
+.cards.cards31 .button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 22px;
+  margin-bottom: 0;
+}
+
+/* Button: wider, allow text to wrap, no truncation */
+.cards.cards31 .button-container .button {
+  background: #0084d1;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 999px;
+  padding: 12px 0;
+  width: 100%;
+  max-width: 250px;
+  min-width: 150px;
+  text-align: center;
+  border: none;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: initial;
+  box-shadow: 0 2px 6px rgb(34 34 34 / 3%);
+  margin: 0;
+  transition: background 0.2s;
+  text-decoration: none;
+}
+
+/* Remove underline and blue text from links inside button */
+
+.cards.cards31 .button-container .button:hover,
+.cards.cards31 .button-container .button:focus {
+  background: #006bb3;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Mobile: always horizontal scroll, show about 90% of a card at a time */
+@media (width <= 899px) {
+  .cards.cards31 > ul > li {
+    min-width: 85vw;
+    max-width: 96vw;
+    width: 85vw;
+    margin-right: 20px;
+  }
+
+  .cards.cards31 > ul {
+    padding-right: 14vw;
+  }
+}
+
+/* Hide scrollbars for neat appearance */
+
+.cards.cards31 > ul::-webkit-scrollbar {
+  height: 8px;
+  background: #fff;
+}
+
+.cards.cards31 > ul::-webkit-scrollbar-thumb {
+  background: #e5e8ea;
+  border-radius: 4px;
+}
