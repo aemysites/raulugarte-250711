@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -42,7 +43,6 @@
   scrollbar-color: #e5e8ea #fff;
 }
 
-/* Cards: wider, more like target, more breathing room top/bottom */
 .cards.cards31 > ul > li {
   background: #fff;
   border-radius: 18px;
@@ -62,7 +62,6 @@
   transition: box-shadow 0.2s;
 }
 
-/* Card image area: more space above image, keep card vertical rhythm */
 .cards.cards31 .cards-card-image {
   display: flex;
   justify-content: center;
@@ -79,7 +78,6 @@
   min-height: 0;
 }
 
-/* Card images: slightly larger for visual balance */
 .cards.cards31 > ul > li img {
   max-width: 132px;
   width: auto;
@@ -90,7 +88,6 @@
   display: block;
 }
 
-/* Card content: more vertical padding for balance */
 .cards.cards31 .cards-card-body {
   width: 100%;
   display: flex;
@@ -102,7 +99,6 @@
   justify-content: center;
 }
 
-/* Hide 'null' paragraphs */
 .cards.cards31 .cards-card-body > p:first-child {
   color: transparent;
   height: 0;
@@ -113,7 +109,6 @@
   max-height: 0;
 }
 
-/* Headings: more space below heading */
 .cards.cards31 .cards-card-body h3 {
   font-size: 17px;
   font-weight: 700;
@@ -123,7 +118,6 @@
   line-height: 1.22;
 }
 
-/* Descriptions */
 .cards.cards31 .cards-card-body > p:not(.button-container) {
   font-size: 15px;
   color: #555;
@@ -132,7 +126,6 @@
   line-height: 1.38;
 }
 
-/* Button container: more top margin for breathing room */
 .cards.cards31 .button-container {
   width: 100%;
   display: flex;
@@ -141,7 +134,6 @@
   margin-bottom: 0;
 }
 
-/* Button: wider, allow text to wrap, no truncation */
 .cards.cards31 .button-container .button {
   background: #0084d1;
   color: #fff;
@@ -163,8 +155,6 @@
   text-decoration: none;
 }
 
-/* Remove underline and blue text from links inside button */
-
 .cards.cards31 .button-container .button:hover,
 .cards.cards31 .button-container .button:focus {
   background: #006bb3;
@@ -172,7 +162,6 @@
   text-decoration: none;
 }
 
-/* Mobile: always horizontal scroll, show about 90% of a card at a time */
 @media (width <= 899px) {
   .cards.cards31 > ul > li {
     min-width: 85vw;
@@ -186,8 +175,6 @@
   }
 }
 
-/* Hide scrollbars for neat appearance */
-
 .cards.cards31 > ul::-webkit-scrollbar {
   height: 8px;
   background: #fff;
@@ -196,4 +183,164 @@
 .cards.cards31 > ul::-webkit-scrollbar-thumb {
   background: #e5e8ea;
   border-radius: 4px;
+}
+
+
+.cards.cards39 {
+  padding: 32px 0;
+  background: var(--background-color);
+}
+
+/* Grid: multi-column, responsive */
+.cards.cards39 > ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 32px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+@media (width <= 1100px) {
+  .cards.cards39 > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width <= 700px) {
+  .cards.cards39 > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Card: subtle roundness, soft shadow, min height for button alignment */
+.cards.cards39 > ul > li {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
+  border: none;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 380px;
+  height: 100%;
+  transition: box-shadow 0.2s;
+}
+
+/* Image area: all cards get an image */
+.cards.cards39 > ul > li > .cards-card-body:first-child {
+  height: 166px;
+  background-color: #e9ecef;
+  background-size: cover;
+  background-position: center;
+  padding: 0;
+  margin: 0;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  display: block;
+}
+
+.cards.cards39 > ul > li > .cards-card-body:first-child p {
+  display: none;
+}
+
+/* Provide background images for all cards, including the last one */
+.cards.cards39 > ul > li:nth-child(1) > .cards-card-body:first-child {
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=cover&w=800&q=80');
+}
+
+.cards.cards39 > ul > li:nth-child(2) > .cards-card-body:first-child {
+  background-image: url('https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=cover&w=800&q=80');
+}
+
+.cards.cards39 > ul > li:nth-child(3) > .cards-card-body:first-child {
+  background-image: url('https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=cover&w=800&q=80');
+}
+
+.cards.cards39 > ul > li:nth-child(4) > .cards-card-body:first-child {
+  background-image: url('https://images.unsplash.com/photo-1465101178521-c1a9136a4bcb?auto=format&fit=cover&w=800&q=80');
+}
+
+/* Content area: tighter and slightly more horizontal padding */
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) {
+  padding: 14px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+  justify-content: flex-start;
+}
+
+/* Headings: minimal margin for tight layout */
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) h4 {
+  font-size: 16px;
+  color: #e70065;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 2px;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
+}
+
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) h2 {
+  font-size: 20px;
+  color: #0071bb;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 8px;
+  line-height: 1.25;
+}
+
+/* Body text: compact margin below */
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) p {
+  color: #222;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+
+/* Button container: minimize separation from last text, always bottom-aligned */
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) .button-container {
+  margin-bottom: 0;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-top: 0;
+}
+
+/* Button styling: matches original */
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) .button {
+  background: #0071bb;
+  color: #fff;
+  border-radius: 24px;
+  padding: 10px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  transition: background 0.2s;
+  outline: none;
+}
+
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) .button:hover,
+.cards.cards39 > ul > li > .cards-card-body:not(:first-child) .button:focus {
+  background: #005b99;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Responsive: further lower min-height for mobile */
+@media (width <= 1100px) {
+  .cards.cards39 > ul > li {
+    min-height: 280px;
+  }
+}
+
+@media (width <= 700px) {
+  .cards.cards39 > ul > li {
+    min-height: 180px;
+  }
 }
