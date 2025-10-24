@@ -1,607 +1,361 @@
 {
-  "originUrl": "https://galltec-mela.de",
+  "originUrl": "https://www.nettokom.de",
   "aborted": false,
-  "lastCrawled": "https://galltec-mela.de/",
+  "lastCrawled": "https://www.nettokom.de/",
   "urls": [
     {
-      "url": "https://galltec-mela.de/",
+      "url": "https://www.nettokom.de/",
       "source": "SITEMAPS",
       "targetPath": "/",
-      "id": "08f759694fd949c7cce2c1d76fb899c56c9da95f"
+      "id": "edf3a98644c7002ab95c46b7ac8326cde66cacc4"
     },
     {
-      "url": "https://galltec-mela.de/alle-produkte/",
+      "url": "https://www.nettokom.de/agb/",
       "source": "SITEMAPS",
-      "targetPath": "/alle-produkte",
-      "id": "724a7336ef60b64698188e906df9a406d5fbce6b"
+      "targetPath": "/agb",
+      "id": "6f11908eea17d74e31083f2de977ed3be311b008"
     },
     {
-      "url": "https://galltec-mela.de/allgemeine-geschaeftsbedingungen-webshop/",
+      "url": "https://www.nettokom.de/aufladen/",
       "source": "SITEMAPS",
-      "targetPath": "/allgemeine-geschaeftsbedingungen-webshop",
-      "id": "6d438a3f2d799fbf5652c27ab0595f8a2748e11f"
+      "targetPath": "/aufladen",
+      "id": "10e527570474d528834ec8fb42653cb98e7f1cc1"
     },
     {
-      "url": "https://galltec-mela.de/allgemeine-geschaeftsbedingungen/",
+      "url": "https://www.nettokom.de/barrierefreiheitserklaerung/",
       "source": "SITEMAPS",
-      "targetPath": "/allgemeine-geschaeftsbedingungen",
-      "id": "205cea04baa268261f654235022f148274803f1c"
+      "targetPath": "/barrierefreiheitserklaerung",
+      "id": "2cd6c84479f97873d156397e14bdcd4654e91090"
     },
     {
-      "url": "https://galltec-mela.de/anwendungen/",
+      "url": "https://www.nettokom.de/bestellung/order-confirmation/",
       "source": "SITEMAPS",
-      "targetPath": "/anwendungen",
-      "id": "492954d06f843140cad2ff6d8d3346a7d74f59cf"
+      "targetPath": "/bestellung/order-confirmation",
+      "id": "bebbbab87b70ab533abad7aab6d5bccce8b3e938"
     },
     {
-      "url": "https://galltec-mela.de/datenschutzerklaerung/",
+      "url": "https://www.nettokom.de/bestellung/order-update/",
       "source": "SITEMAPS",
-      "targetPath": "/datenschutzerklaerung",
-      "id": "2d48b45eb73d1342879feb994fad575fe89745b9"
+      "targetPath": "/bestellung/order-update",
+      "id": "f1b9cd0d27293db48dd40dda880daefd0de5adcd"
     },
     {
-      "url": "https://galltec-mela.de/downloadbereich/",
+      "url": "https://www.nettokom.de/bestellung/payment-method/",
       "source": "SITEMAPS",
-      "targetPath": "/downloadbereich",
-      "id": "0cca884f181f2040ea411d5e61f3bb1fa18bbcce"
+      "targetPath": "/bestellung/payment-method",
+      "id": "cd59fb8fff4ae309bc30d06b126ab0e867663033"
     },
     {
-      "url": "https://galltec-mela.de/en/about-us/code-of-conduct/",
+      "url": "https://www.nettokom.de/bestellung/payment-type/",
       "source": "SITEMAPS",
-      "targetPath": "/en/about-us/code-of-conduct",
-      "id": "0dafab1e40339c01b345dd0fa2e7535638b34905"
+      "targetPath": "/bestellung/payment-type",
+      "id": "572c277efa66d60882a6819d8494029d0812065c"
     },
     {
-      "url": "https://galltec-mela.de/en/about-us/company-profile-galltec-mess-und-regeltechnik-gmbh/",
+      "url": "https://www.nettokom.de/bestellung/personal-details/",
       "source": "SITEMAPS",
-      "targetPath": "/en/about-us/company-profile-galltec-mess-und-regeltechnik-gmbh",
-      "id": "cc95f537c2f81164fa0c2046b45142fa19eb411c"
+      "targetPath": "/bestellung/personal-details",
+      "id": "cc8650577c057e6710b56f88ae23b3dba7d53c4f"
     },
     {
-      "url": "https://galltec-mela.de/en/about-us/company-profile-mela-sensortechnik-gmbh/",
+      "url": "https://www.nettokom.de/bestellung/summary/",
       "source": "SITEMAPS",
-      "targetPath": "/en/about-us/company-profile-mela-sensortechnik-gmbh",
-      "id": "13d035734c1597253322a250d03ce4b00254e10a"
+      "targetPath": "/bestellung/summary",
+      "id": "235d9ccbacde91245fadb1ffe4769627dfe0bf02"
     },
     {
-      "url": "https://galltec-mela.de/en/about-us/job-offers/",
+      "url": "https://www.nettokom.de/bestellung/transfer/",
       "source": "SITEMAPS",
-      "targetPath": "/en/about-us/job-offers",
-      "id": "ee0eddd5eb1dc25f520117d09ffc575b7060a6a0"
+      "targetPath": "/bestellung/transfer",
+      "id": "beddad075f0310dd43345fce5395b745688666f7"
     },
     {
-      "url": "https://galltec-mela.de/en/about-us/news-profile/",
+      "url": "https://www.nettokom.de/bta/",
       "source": "SITEMAPS",
-      "targetPath": "/en/about-us/news-profile",
-      "id": "33576e2009c0890628c19ddd1cdb2b84be187091"
+      "targetPath": "/bta",
+      "id": "83547bf4a2ee143f7690ec7662cefe7560124a13"
     },
     {
-      "url": "https://galltec-mela.de/en/applications/",
+      "url": "https://www.nettokom.de/cancellation-page/",
       "source": "SITEMAPS",
-      "targetPath": "/en/applications",
-      "id": "49ca4b9ad75f172991b5d8400b38fc7945ec4208"
+      "targetPath": "/cancellation-page",
+      "id": "227474fc286365cfaa67614e7790b87c40859af6"
     },
     {
-      "url": "https://galltec-mela.de/en/capacitive-mela-sensor-chip/",
+      "url": "https://www.nettokom.de/cookies/",
       "source": "SITEMAPS",
-      "targetPath": "/en/capacitive-mela-sensor-chip",
-      "id": "4bf752646f171c22597ccdc1ba21070449adf001"
+      "targetPath": "/cookies",
+      "id": "5b29ee3c9f0066161cb2a5ff90a143ff897afb31"
     },
     {
-      "url": "https://galltec-mela.de/en/contact/",
+      "url": "https://www.nettokom.de/datenanfrage/",
       "source": "SITEMAPS",
-      "targetPath": "/en/contact",
-      "id": "ad1f87ed07c374ef1d9fa8e7a0d3abf50f6aca17"
+      "targetPath": "/datenanfrage",
+      "id": "e64124e1940c5413114c119203cacd91166943c8"
     },
     {
-      "url": "https://galltec-mela.de/en/contact/contactperson/",
+      "url": "https://www.nettokom.de/datenschutz/",
       "source": "SITEMAPS",
-      "targetPath": "/en/contact/contactperson",
-      "id": "d425eae44c5410b00aac66b3c4aed978fdb179ba"
+      "targetPath": "/datenschutz",
+      "id": "d852a44656bdb8b8fe9d960b3638488440612346"
     },
     {
-      "url": "https://galltec-mela.de/en/contact/worldwide/",
+      "url": "https://www.nettokom.de/downloads/",
       "source": "SITEMAPS",
-      "targetPath": "/en/contact/worldwide",
-      "id": "d31ad92d0ceffd49a9bbb56442b171bfa8a0849b"
+      "targetPath": "/downloads",
+      "id": "b63b04a5432918ab7e66362802d700f9f0263287"
     },
     {
-      "url": "https://galltec-mela.de/en/downloads/",
+      "url": "https://www.nettokom.de/freischalten/",
       "source": "SITEMAPS",
-      "targetPath": "/en/downloads",
-      "id": "9bc5d694c32e261cd6f3cded8fb931366b9d062d"
+      "targetPath": "/freischalten",
+      "id": "b6ddbf1eacdcb605c55c7a5b8e6d88b138f0a310"
     },
     {
-      "url": "https://galltec-mela.de/en/environmental-compliance/",
+      "url": "https://www.nettokom.de/freischalten/legitimation-completed/",
       "source": "SITEMAPS",
-      "targetPath": "/en/environmental-compliance",
-      "id": "c5efb9cf0853e7b82612abc203e0f948fcb8bae2"
+      "targetPath": "/freischalten/legitimation-completed",
+      "id": "4a87ebe9ef9b658cb2139eacc12af3152bb5af08"
     },
     {
-      "url": "https://galltec-mela.de/en/general-conditions/",
+      "url": "https://www.nettokom.de/freischalten/post-ident-coupon/",
       "source": "SITEMAPS",
-      "targetPath": "/en/general-conditions",
-      "id": "98329b511e1dd3b05b138a503b1e5c02db7880ca"
+      "targetPath": "/freischalten/post-ident-coupon",
+      "id": "cd4926e426e85124a3eebd8b15e96f9d68500c8b"
     },
     {
-      "url": "https://galltec-mela.de/en/greenhouses/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/greenhouses",
-      "id": "b006b71f9164aa2d48c7c5d25cc1aa89a147dea0"
-    },
-    {
-      "url": "https://galltec-mela.de/en/history-of-humidity-measurement/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/history-of-humidity-measurement",
-      "id": "0b83413fa0c5ef343ad01138b4254d721360a18f"
-    },
-    {
-      "url": "https://galltec-mela.de/en/homepage/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/homepage",
-      "id": "07c0e708adbe904f7a81fc94db03ca9373f13257"
-    },
-    {
-      "url": "https://galltec-mela.de/en/humidity-measurement-definitions-terms/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/humidity-measurement-definitions-terms",
-      "id": "c6033095f04c461eb02d6e906b26649053905197"
-    },
-    {
-      "url": "https://galltec-mela.de/en/issuer/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/issuer",
-      "id": "fdf33e5852cf0bfb8b70ed419530c05cb1806c87"
-    },
-    {
-      "url": "https://galltec-mela.de/en/online-product-catalog/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/online-product-catalog",
-      "id": "fac55dfbf5b3cf4b89befcefdd7fae663c1fadff"
-    },
-    {
-      "url": "https://galltec-mela.de/en/polyga-fibres/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/polyga-fibres",
-      "id": "bb6291782e38c37ff113307d98ce61f317dab27c"
-    },
-    {
-      "url": "https://galltec-mela.de/en/privacystatment/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/privacystatment",
-      "id": "19206848e8c6ca3dd6e6517d062d395d72c0ba88"
-    },
-    {
-      "url": "https://galltec-mela.de/en/product-configurator/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/product-configurator",
-      "id": "7c1fe7ccccfd2a0e1aab7f20edfc0f85dc9bf886"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products",
-      "id": "2f1bfd0f1e56693346b5f7d8edd686da265d303f"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/aw-with-remote-probe/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/aw-with-remote-probe",
-      "id": "9556d1217ba2e4989c333a02390426d87020b397"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/digital-probe-with-exchangeable-measuring-head-pm15p/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/digital-probe-with-exchangeable-measuring-head-pm15p",
-      "id": "c4b1832020caf72b7a7a68bb9742ca445ca539fb"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/estat20-sensor-und-hygrostat-in-einem/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/estat20-sensor-und-hygrostat-in-einem",
-      "id": "c68fde23bdbeab7e65cb4e8bf2580a1105c71730"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/heavy-duty-transmitters-analogue-output-gc-wall-mounted/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/heavy-duty-transmitters-analogue-output-gc-wall-mounted",
-      "id": "30cb54bc2485e82df03de82dc1b87072936fd50e"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/humidity-and-temperature-transmitter-optimised-for-hvaclw-wall-mounted/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/humidity-and-temperature-transmitter-optimised-for-hvaclw-wall-mounted",
-      "id": "fcfb7f6f6d2008350bc6c93102a267b076bf33ec"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/humidity-sensors-transmitter-fk80-duct-version/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/humidity-sensors-transmitter-fk80-duct-version",
-      "id": "b3852655a8a2ab8daf1c78fc5b5700da4fae8eec"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/iak-probes-with-analogue-output-and-plug-in-connection/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/iak-probes-with-analogue-output-and-plug-in-connection",
-      "id": "7c46803bb0f5af2e6ee3a11179a63466be03331a"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/irk-probes-with-robust-head/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/irk-probes-with-robust-head",
-      "id": "1007da6975cf9f2599d10d94a97604c7ba63254e"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/itk-stainless-steel-probes-with-digital-output-and-robust-head/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/itk-stainless-steel-probes-with-digital-output-and-robust-head",
-      "id": "62818dd4349485dcba3ad4a6d08509680a68de5c"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/ivk-stainless-steel-probes-with-digital-output-and-plug-in-connection/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/ivk-stainless-steel-probes-with-digital-output-and-plug-in-connection",
-      "id": "4fc802a5f70e615f0b2a6335894f4a2c49ca9345"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/miniature-humidity-and-temperature-sensor-mck/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/miniature-humidity-and-temperature-sensor-mck",
-      "id": "e45ec794e7e25f5d2f77ad31619c126e98f1cfbb"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/pc-me-and-pc-s-me-analogue-probes-optimized-for-outdoor-meteorology-applications/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/pc-me-and-pc-s-me-analogue-probes-optimized-for-outdoor-meteorology-applications",
-      "id": "89e12f7e65b2477c7229d296d494380c96f9cc7e"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/pc-rc-me-analogue-probes-for-meteorology/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/pc-rc-me-analogue-probes-for-meteorology",
-      "id": "5bfaa0b71033cb734f0f6a806a4b69c015d5e5a5"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/robust-analogue-probe-for-humidity-and-temperature-pc-and-pc-s-analogue-probes/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/robust-analogue-probe-for-humidity-and-temperature-pc-and-pc-s-analogue-probes",
-      "id": "0747095f54ee7a069c49aa576ce363fa90c6f7df"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/sensors-for-humidity-and-temperature-d-series-room-version-di/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/sensors-for-humidity-and-temperature-d-series-room-version-di",
-      "id": "cd3ab04e2ccf32381cbeaf11f5da970ebe38d28d"
-    },
-    {
-      "url": "https://galltec-mela.de/en/products/transmitter-fk120-indoor/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/transmitter-fk120-indoor",
-      "id": "ec5ebb08b2bdd70eb041efe1f28c18188853fc12"
-    },
-    {
-      "url": "https://galltec-mela.de/en/relative-humidity-measurement-technology/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/relative-humidity-measurement-technology",
-      "id": "994050956bbd9fc96691ebc0452e73951db919f5"
-    },
-    {
-      "url": "https://galltec-mela.de/en/request-for-catalogue/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/request-for-catalogue",
-      "id": "16a00853750b22809de3bcea368af90a09f5aa41"
-    },
-    {
-      "url": "https://galltec-mela.de/en/service/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/service",
-      "id": "6cf3e94c3fc966deb7db12310589e272eea47c05"
-    },
-    {
-      "url": "https://galltec-mela.de/fas-datasheets/",
-      "source": "SITEMAPS",
-      "targetPath": "/fas-datasheets",
-      "id": "beb95ca20ce556b0b4ad99cce7bdd93dc754f5d6"
-    },
-    {
-      "url": "https://galltec-mela.de/feuchtemesstechnik/",
-      "source": "SITEMAPS",
-      "targetPath": "/feuchtemesstechnik",
-      "id": "cef84ef9eb045020a489be817ed5b359b578b404"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/a-propos-de-nous/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/a-propos-de-nous",
-      "id": "24aef803b0cb4d1c10e4bb04a549cd65d13b65c4"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/a-propos-de-nous/code-de-conduite/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/a-propos-de-nous/code-de-conduite",
-      "id": "7f527373c6861b6afdc4ae9ff2a0393ba1ad6056"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/a-propos-de-nous/news-et-salon/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/a-propos-de-nous/news-et-salon",
-      "id": "c715503ea11c8a2b8d32a5cbb273432b67002f72"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/a-propos-de-nous/profil-de-lentreprise-galltec-mess-und-regeltechnik-gmbh/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/a-propos-de-nous/profil-de-lentreprise-galltec-mess-und-regeltechnik-gmbh",
-      "id": "830928f98057b895aeec288620af0d1ac00250fc"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/a-propos-de-nous/profil-de-lentreprise-mela-sensortechnik-gmbh/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/a-propos-de-nous/profil-de-lentreprise-mela-sensortechnik-gmbh",
-      "id": "364550ff86f3a9578a7f1e51de703184f4358221"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/applications/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/applications",
-      "id": "fb7cd06dead0aaec163c973b289cd9c3f45dc7ab"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/catalogue-de-produits-en-ligne/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/catalogue-de-produits-en-ligne",
-      "id": "1faad065d64adc2ef2dd5e433f8111d341a7ac71"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/conditions-generales/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/conditions-generales",
-      "id": "ef0794de3a4dfc86524d6533196b171c3d660263"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/conformite-environnementale/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/conformite-environnementale",
-      "id": "1a22a94a3c1a5b3f3d5b75dc2502fcd31cbfc207"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/contact/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/contact",
-      "id": "3467fce3a4b90efb541dfa6526b227e3c2997dd2"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/contact/dans-le-monde-entier-nos-distributeurs-internationaux/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/contact/dans-le-monde-entier-nos-distributeurs-internationaux",
-      "id": "7fa9c3f8edb12d09bb8ab171e5d4564e1b2efaf0"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/contact/vos-contacts/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/contact/vos-contacts",
-      "id": "cc542138f888ef733f0fd517221eb61c664395f6"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/declaration-de-confidentialite/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/declaration-de-confidentialite",
-      "id": "11a97cf9ce47c66be9807b8f2635f412d680d108"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/fibres-polyga/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/fibres-polyga",
-      "id": "1f79b91f9967b686597f73d3d012b685840a6417"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/histoire-de-la-mesure-de-lhumidite/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/histoire-de-la-mesure-de-lhumidite",
-      "id": "032a2b76380bcb38fe1d7d26da6bd805b4bdc139"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/humidite-de-lair/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/humidite-de-lair",
-      "id": "18a4b62eb60118d4710fc72ac1bb0782032c361c"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/mela-capteurs-capacitifs/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/mela-capteurs-capacitifs",
-      "id": "dcbcaeb28668eae0a9eff44935223f63bd3e4c3e"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/mentions-legales/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/mentions-legales",
-      "id": "5526605f9d841b68c0880eb8f354cf41252b2026"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/produits/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/produits",
-      "id": "2d1c4b301f2a80d0d468697c6d2b112450a91051"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/reparation-service/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/reparation-service",
-      "id": "c5cb46428bfd7cbb6b65d5cb20590d200f2e7800"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/technique-de-mesure-de-lhumidite/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/technique-de-mesure-de-lhumidite",
-      "id": "7c10f43650f98caf6ce4e74149dd1f9d99916cb9"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/telechargement/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/telechargement",
-      "id": "84bcd33bf980915c654f7b0d3a4fed79dd11af61"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/tous-les-produits/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/tous-les-produits",
-      "id": "094403c5233c020101d856b77016788716342507"
-    },
-    {
-      "url": "https://galltec-mela.de/fr/votre-partenaire-pour-une-technique-de-mesure-de-lhumidite/",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/votre-partenaire-pour-une-technique-de-mesure-de-lhumidite",
-      "id": "23225181e20afced3075cccf465c84ad3a441ebb"
-    },
-    {
-      "url": "https://galltec-mela.de/geschichte-messtechnik/",
-      "source": "SITEMAPS",
-      "targetPath": "/geschichte-messtechnik",
-      "id": "d70a233a6ac1df0395521f810da63ac41b64030c"
-    },
-    {
-      "url": "https://galltec-mela.de/gewaechshaus/",
-      "source": "SITEMAPS",
-      "targetPath": "/gewaechshaus",
-      "id": "7a8e69f263ca87c7b16620ff6eb225542abaa5d2"
-    },
-    {
-      "url": "https://galltec-mela.de/impressum/",
+      "url": "https://www.nettokom.de/impressum/",
       "source": "SITEMAPS",
       "targetPath": "/impressum",
-      "id": "abae832a4e47d24580d6a46c09e03b0217db782c"
+      "id": "4c319838882e85e16edc90cc752471a4fdae3da9"
     },
     {
-      "url": "https://galltec-mela.de/kapazitiver-sensor/",
+      "url": "https://www.nettokom.de/ratgeber/",
       "source": "SITEMAPS",
-      "targetPath": "/kapazitiver-sensor",
-      "id": "9fe5bff3959a5603faf89595b1d1eee47bf3f372"
+      "targetPath": "/ratgeber",
+      "id": "f97e217a720cc4b2dd7d9a4193ab0e89ecc759c3"
     },
     {
-      "url": "https://galltec-mela.de/katalog-per-post/",
+      "url": "https://www.nettokom.de/ratgeber/bewertungen-und-tests/",
       "source": "SITEMAPS",
-      "targetPath": "/katalog-per-post",
-      "id": "c5e098ff627e1024fa77589635f6d7e80696cadc"
+      "targetPath": "/ratgeber/bewertungen-und-tests",
+      "id": "ec69e71a5175ee9283bb1338703ebd0cb3436a36"
     },
     {
-      "url": "https://galltec-mela.de/kontakt/",
+      "url": "https://www.nettokom.de/ratgeber/kinder-und-smartphones/",
       "source": "SITEMAPS",
-      "targetPath": "/kontakt",
-      "id": "c922d33c9a5a4d70afe5d02f02ef94938c692764"
+      "targetPath": "/ratgeber/kinder-und-smartphones",
+      "id": "f7a7fdbd5b814c0d0e0157616372c54161a918a6"
     },
     {
-      "url": "https://galltec-mela.de/kontakt/ansprechpartner/",
+      "url": "https://www.nettokom.de/ratgeber/netzabdeckung/",
       "source": "SITEMAPS",
-      "targetPath": "/kontakt/ansprechpartner",
-      "id": "e6286d61859970cf7344896898d9def2da213b31"
+      "targetPath": "/ratgeber/netzabdeckung",
+      "id": "f079ed9783bc834aeaca80a4b3a20443a5b5bd86"
     },
     {
-      "url": "https://galltec-mela.de/kontakt/weltweit/",
+      "url": "https://www.nettokom.de/ratgeber/reisen-und-roaming/",
       "source": "SITEMAPS",
-      "targetPath": "/kontakt/weltweit",
-      "id": "1a4358fbde550c78dfafb1782df4e4e458099d9f"
+      "targetPath": "/ratgeber/reisen-und-roaming",
+      "id": "81c2d5d08ffebbfed47a81e913ebf2215d6137d3"
     },
     {
-      "url": "https://galltec-mela.de/online-produkt-katalog/",
+      "url": "https://www.nettokom.de/service/app/",
       "source": "SITEMAPS",
-      "targetPath": "/online-produkt-katalog",
-      "id": "f093fa507c71a6f7e6bc465179f35a91cd4b3cc0"
+      "targetPath": "/service/app",
+      "id": "36bf19fae3b18e61c1dfe4228b5ab36bbeaf83c6"
     },
     {
-      "url": "https://galltec-mela.de/polyga/",
+      "url": "https://www.nettokom.de/service/faq/",
       "source": "SITEMAPS",
-      "targetPath": "/polyga",
-      "id": "e305ab41522dede4ad389f99b574da5e0b10adf0"
+      "targetPath": "/service/faq",
+      "id": "9cb17ffab9fb699c4fd1a94fab7f211887db9f49"
     },
     {
-      "url": "https://galltec-mela.de/produkte/",
+      "url": "https://www.nettokom.de/service/filialfinder/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte",
-      "id": "d8033c4bf425bff07edd7ff6d7270e0a632ca554"
+      "targetPath": "/service/filialfinder",
+      "id": "f6136d36345302ed63f720a28faa33e6019ce67a"
     },
     {
-      "url": "https://galltec-mela.de/produkte/kl-kanalversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+      "url": "https://www.nettokom.de/service/kontakt/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte/kl-kanalversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk",
-      "id": "377285530e0dd03a52858927b360c3a4567f0052"
+      "targetPath": "/service/kontakt",
+      "id": "dcfee275f3d3de76ae2b85f14761dbfb3f9d0649"
     },
     {
-      "url": "https://galltec-mela.de/produkte/lw-wandmontage-mit-modbus-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+      "url": "https://www.nettokom.de/service/rufnummernmitnahme/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte/lw-wandmontage-mit-modbus-feuchte-und-temperatursensoren-optimiert-fuer-hlk",
-      "id": "546973e80fc3a90a419ed1688686ac9a379c160c"
+      "targetPath": "/service/rufnummernmitnahme",
+      "id": "f9aa647db178b3852eb497c8bc0a8113a841574c"
     },
     {
-      "url": "https://galltec-mela.de/produkte/m-serie-mck-miniatursensor-fuer-feuchte-und-temperatur-optimiert-fuer-hlk/",
+      "url": "https://www.nettokom.de/tan-pruefung/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte/m-serie-mck-miniatursensor-fuer-feuchte-und-temperatur-optimiert-fuer-hlk",
-      "id": "65fe017a6fcb6c677b2ee17685c58f3e5e5d68ed"
+      "targetPath": "/tan-pruefung",
+      "id": "d0df34d9fbcd095d40eb81bc18dddd9a566f7f41"
     },
     {
-      "url": "https://galltec-mela.de/produkte/pl-stabsensor-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+      "url": "https://www.nettokom.de/tarife/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte/pl-stabsensor-feuchte-und-temperatursensoren-optimiert-fuer-hlk",
-      "id": "15b11f077115ba1356b45359c5b8e8d0bb4a23e1"
+      "targetPath": "/tarife",
+      "id": "c383727578ff1a0f1a43f2306cfc92b4b7dde1f6"
     },
     {
-      "url": "https://galltec-mela.de/produkte/wl-raumversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk/",
+      "url": "https://www.nettokom.de/tarife/basic/",
       "source": "SITEMAPS",
-      "targetPath": "/produkte/wl-raumversion-feuchte-und-temperatursensoren-optimiert-fuer-hlk",
-      "id": "7fec60c0acd45b3f8730be2ec798a3154315d4cd"
+      "targetPath": "/tarife/basic",
+      "id": "8f1d9f38be3ac8cdc1a30cbf9d9cd144822caea2"
     },
     {
-      "url": "https://galltec-mela.de/reparaturen-und-service/",
+      "url": "https://www.nettokom.de/tarife/daten-tarif-l/",
       "source": "SITEMAPS",
-      "targetPath": "/reparaturen-und-service",
-      "id": "18a11ce5ccdde3db9498cb94b985a0c18ea5d6e4"
+      "targetPath": "/tarife/daten-tarif-l",
+      "id": "998320b910993307792e22a1cb4746423ab655a3"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/",
+      "url": "https://www.nettokom.de/tarife/daten-tarif-m/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns",
-      "id": "4fa8cee718787dbd65ee585cfc76a85fdf97bcb7"
+      "targetPath": "/tarife/daten-tarif-m",
+      "id": "b42ac7e7c89d7d17d859a1e44e3b3dcf74517130"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/code-of-conduct/",
+      "url": "https://www.nettokom.de/tarife/daten-tarif-s/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns/code-of-conduct",
-      "id": "91e8b0be523ce49cedb67d6255e29a4a40c261b5"
+      "targetPath": "/tarife/daten-tarif-s",
+      "id": "7d78bfbfacf46959247caf8aef00f2f2489ea140"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/firmenprofil/",
+      "url": "https://www.nettokom.de/tarife/daten-tarife/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns/firmenprofil",
-      "id": "736ba9671f0da840585892acd4736d7ca8d51df6"
+      "targetPath": "/tarife/daten-tarife",
+      "id": "81178595fa37ff74e9b877375b5fdd222b6b0dc9"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/mela-sensortechnik-gmbh/",
+      "url": "https://www.nettokom.de/tarife/fuer-dich/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns/mela-sensortechnik-gmbh",
-      "id": "7e7c94d1f9a2cce0caed1e6de9df9829351e303e"
+      "targetPath": "/tarife/fuer-dich",
+      "id": "11d251010f1377ce897c3b64204e9d980b279a07"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/news-und-messen/",
+      "url": "https://www.nettokom.de/tarife/jahrespaket/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns/news-und-messen",
-      "id": "683ab6b9a01228fe370363bcf684546b61bdad4f"
+      "targetPath": "/tarife/jahrespaket",
+      "id": "c22fdf1fe9b26f2c3d3efbb342236487c2576279"
     },
     {
-      "url": "https://galltec-mela.de/ueber-uns/stellenangebote/",
+      "url": "https://www.nettokom.de/tarife/kinder/",
       "source": "SITEMAPS",
-      "targetPath": "/ueber-uns/stellenangebote",
-      "id": "4e3089fcd4d8792f9227fd1f897a6be2688492aa"
+      "targetPath": "/tarife/kinder",
+      "id": "4e715a7aaeb68dbb72e59901567b8e5925636d57"
     },
     {
-      "url": "https://galltec-mela.de/umwelt-compliance/",
+      "url": "https://www.nettokom.de/tarife/lift/",
       "source": "SITEMAPS",
-      "targetPath": "/umwelt-compliance",
-      "id": "9d3c025f42907d1e3f3e63973127bf688c443951"
+      "targetPath": "/tarife/lift",
+      "id": "1238c80859dbefa5c0bee378539d6f79c11c9584"
     },
     {
-      "url": "https://galltec-mela.de/webshop/",
+      "url": "https://www.nettokom.de/tarife/nettokom-easy/",
       "source": "SITEMAPS",
-      "targetPath": "/webshop",
-      "id": "5c6962493f209a0cac10a8ad9151d5f8088d9de4"
+      "targetPath": "/tarife/nettokom-easy",
+      "id": "fbb21bfe9beacdd7e7b2513f54b29cb28a7b0dc4"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/nettokom-lift-l/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/nettokom-lift-l",
+      "id": "28824e51888b2b4a216430b4507c193d04c6fbb9"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/nettokom-lift-m/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/nettokom-lift-m",
+      "id": "248f4d64645fcd626a05fdaf3a28d1f75b63118a"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/nettokom-lift-s/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/nettokom-lift-s",
+      "id": "6784c671a0888fd01ef7ad5dea5f960334ad804a"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/prepaid-sim/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/prepaid-sim",
+      "id": "46b49adf5473f957e82de3b2f3bdeaa54138b30a"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/senioren/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/senioren",
+      "id": "e47465f71a154370b7ea0ec9779baca30813137a"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/smart-l/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/smart-l",
+      "id": "dd99d9640a862037f7eee43d9cb10a4583368048"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/smart-m/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/smart-m",
+      "id": "0418cbf0ab29aa64e2802a49e6e0a85dd9e1c0db"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/smart-s/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/smart-s",
+      "id": "8cf74f15b7308d71d650f339ee592f2a7a2ea4c5"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/smartphone-tarife/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/smartphone-tarife",
+      "id": "88dedadacd47a26ce6d9f748e2fb211f1df293d5"
+    },
+    {
+      "url": "https://www.nettokom.de/tarife/unlimited-on-demand/",
+      "source": "SITEMAPS",
+      "targetPath": "/tarife/unlimited-on-demand",
+      "id": "08593a084b763fef4364e094371a9fc1a1d916d7"
+    },
+    {
+      "url": "https://www.nettokom.de/user/hilfe-und-service/network-coverage/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/hilfe-und-service/network-coverage",
+      "id": "ebc17617eea98f3f9bf7d41883a8a10cb83d8161"
+    },
+    {
+      "url": "https://www.nettokom.de/user/hilfe-und-service/network-live-check/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/hilfe-und-service/network-live-check",
+      "id": "11927074e3d02e2707cc82f6a2d7a33fd854abf4"
+    },
+    {
+      "url": "https://www.nettokom.de/user/keine-vertraege/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/keine-vertraege",
+      "id": "dd0d2950669459d50cdb011089833dd41d3c00f6"
+    },
+    {
+      "url": "https://www.nettokom.de/user/merge-late-selfcare/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/merge-late-selfcare",
+      "id": "8ae5deecbc7874bc40fb93db6e9fb820e54bad99"
+    },
+    {
+      "url": "https://www.nettokom.de/user/multi-switcher-late-selfcare/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/multi-switcher-late-selfcare",
+      "id": "7378babb0435a28b530dbbb63061f7ac3570442b"
+    },
+    {
+      "url": "https://www.nettokom.de/user/prepaid-link-details/",
+      "source": "SITEMAPS",
+      "targetPath": "/user/prepaid-link-details",
+      "id": "73571fea3c039d033e1d59127e60150039b58555"
     }
   ],
   "crawlOptions": {
@@ -619,26 +373,234 @@
   },
   "extractionErrors": [
     {
-      "url": "https://galltec-mela.de/en/about-us/",
-      "status": "301 Moved Permanently Redirect: https://galltec-mela.de/en/about-us/news-profile/"
+      "url": "https://www.nettokom.de/TestPages/prepaid-tarife-4/",
+      "status": "301 Moved Permanently Redirect: https://www.nettokom.de/testpages/prepaid-tarife-4/"
     },
     {
-      "url": "https://galltec-mela.de/luftfeuchte/",
-      "status": "301 Moved Permanently Redirect: https://galltec-mela.de/luftfeuchte/feuchtemesstechnik/"
+      "url": "https://www.nettokom.de/TestPages/test-page/",
+      "status": "301 Moved Permanently Redirect: https://www.nettokom.de/testpages/test-page/"
     },
     {
-      "url": "https://galltec-mela.de/produkte/produkt-katalog/",
-      "status": "301 Moved Permanently Redirect: https://galltec-mela.de/online-produkt-katalog/"
+      "url": "https://www.nettokom.de/TestPages/test-page/test-page-shilpi/",
+      "status": "301 Moved Permanently Redirect: https://www.nettokom.de/testpages/test-page/test-page-shilpi/"
     },
     {
-      "url": "https://galltec-mela.de/en/products/product-catalogue/",
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=1o0y8DuqTowSvN8_g0xe49ukJi_Xkn2S7gAfUN46Jyo&code_challenge_method=S256&nonce=Jklz69XQkI6eD9qJpYdfGQ&state=CpvQLpx5XflyzVXsk6bnUw&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D1o0y8DuqTowSvN8_g0xe49ukJi_Xkn2S7gAfUN46Jyo%26code_challenge_method%3DS256%26nonce%3DJklz69XQkI6eD9qJpYdfGQ%26state%3DCpvQLpx5XflyzVXsk6bnUw%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DVu7LoQZKmHMAwelsntzYaJ0984aaoEC1U1MxGef0wBg&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=4FHIhHb0AkNYOuh-rqwVYxiif21GNf8aIrbcL1xxdyQ&code_challenge_method=S256&nonce=6EbtgEdpoel8mZxb-J8-Uw&state=LOgNG5ChGq4g1t6j7OoFHQ&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D4FHIhHb0AkNYOuh-rqwVYxiif21GNf8aIrbcL1xxdyQ%26code_challenge_method%3DS256%26nonce%3D6EbtgEdpoel8mZxb-J8-Uw%26state%3DLOgNG5ChGq4g1t6j7OoFHQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DT2vMy-ELxAmT80RFSrtEgv1EV7icBZ8i7XM7Ej-fkHY&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=az2-uhRUDA2PjOK-FnvyI9a2RoajVaBsRiPTmyFwzNY&code_challenge_method=S256&nonce=TZzkMTFkWlzPhlsBoteIhA&state=lX6ImBWuy5IjA57-cLF8MQ&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3Daz2-uhRUDA2PjOK-FnvyI9a2RoajVaBsRiPTmyFwzNY%26code_challenge_method%3DS256%26nonce%3DTZzkMTFkWlzPhlsBoteIhA%26state%3DlX6ImBWuy5IjA57-cLF8MQ%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3D6btYMBB3HE0kagwlFntsgqkORj8RVY0n7UN18cVXhI4&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=B99O2Vvh-Zro3UTOjpqZcE4U0qyCdencobOpB1ZSz5s&code_challenge_method=S256&nonce=jzEY7eR02XhYFcsNk-cr3A&state=qws_2runMuqkbrM6kiOklQ&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DB99O2Vvh-Zro3UTOjpqZcE4U0qyCdencobOpB1ZSz5s%26code_challenge_method%3DS256%26nonce%3DjzEY7eR02XhYFcsNk-cr3A%26state%3Dqws_2runMuqkbrM6kiOklQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DOxjRvDDvlM4hsaD3yuHcVUqeKtP_E-DmY7ikvKDK9SI&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=CKiHO_1L0h88Nm-_qP3mi24bsLxScOvZ-e_1TXuv4w8&code_challenge_method=S256&nonce=wZ0oFgvs_RLuaSpeNY7W9g&state=etNAy-rr2gnFcYjDQPgWiQ&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCKiHO_1L0h88Nm-_qP3mi24bsLxScOvZ-e_1TXuv4w8%26code_challenge_method%3DS256%26nonce%3DwZ0oFgvs_RLuaSpeNY7W9g%26state%3DetNAy-rr2gnFcYjDQPgWiQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dzq7pjY8CwO3ROlHczpcnLCfJpadiGEs1bNPPZHG2RQU&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=CYx9bGb0JC3WbWCREGHDFXmHKmsOJfy3HSrdGqVjd4Y&code_challenge_method=S256&nonce=rgntSo1bgUSem3IKV3VdxA&state=j9mIKRD4Z-lbyOa0n55rvg&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCYx9bGb0JC3WbWCREGHDFXmHKmsOJfy3HSrdGqVjd4Y%26code_challenge_method%3DS256%26nonce%3DrgntSo1bgUSem3IKV3VdxA%26state%3Dj9mIKRD4Z-lbyOa0n55rvg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DolbmnUoXw8t4b1x6vpQu5ZlKJ8WxFf4N7cOSGmqK98M&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=DH7L-iiis6I-opRUtT_hnm8W01BYcWodY1QBMc2puAw&code_challenge_method=S256&nonce=AEIaKxXVJxGGix2R2LIt1A&state=KdKRq-E1nBNAuh8aaJhavg&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DDH7L-iiis6I-opRUtT_hnm8W01BYcWodY1QBMc2puAw%26code_challenge_method%3DS256%26nonce%3DAEIaKxXVJxGGix2R2LIt1A%26state%3DKdKRq-E1nBNAuh8aaJhavg%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DoXvN5Rjezftfx2y3lV9Jt9mww45zkOP2PYxEdEmXals&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=eFCJe2gmXE7TzRS0t0QQ8m6q2FI1rlkSN1anuAkqOhw&code_challenge_method=S256&nonce=OXIm16gFpDZT9o_PV1oPug&state=qhz7yNbi8hWfjEBD6dLuAg&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DeFCJe2gmXE7TzRS0t0QQ8m6q2FI1rlkSN1anuAkqOhw%26code_challenge_method%3DS256%26nonce%3DOXIm16gFpDZT9o_PV1oPug%26state%3Dqhz7yNbi8hWfjEBD6dLuAg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DwUtg6L6uLOPKvLW3BYBJjVAffFOx8m1p8J6xlhkl2Bg&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=EGQk1RCuA40sbjfGkHche5-RLuMxfC-hfcpyM2yhyFQ&code_challenge_method=S256&nonce=mBl035LM2555LtIJxujyKA&state=J8z3A7GpuK_gJa01g_TtRQ&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DEGQk1RCuA40sbjfGkHche5-RLuMxfC-hfcpyM2yhyFQ%26code_challenge_method%3DS256%26nonce%3DmBl035LM2555LtIJxujyKA%26state%3DJ8z3A7GpuK_gJa01g_TtRQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZiaUP9Xf43YDZCFfZNdgAa9VrPnrhwYEiduxDxvt5Ms&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=hKb12LrzZPqfoZ6P9FSzb0AVYO59c9j2KHP2x369W9k&code_challenge_method=S256&nonce=rAbyovY_KVJvFYB17WqHLA&state=95Obvvj05Wq2iqmQD2j7lQ&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DhKb12LrzZPqfoZ6P9FSzb0AVYO59c9j2KHP2x369W9k%26code_challenge_method%3DS256%26nonce%3DrAbyovY_KVJvFYB17WqHLA%26state%3D95Obvvj05Wq2iqmQD2j7lQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DeWAFLX1a2qk2Q9l34kQuQA-y6tNlcifdeh5KdrS5aDI&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=jgbMlG0DghmHZpfJ7-qtweUsnJNmbC6EIzy3YTnCbFs&code_challenge_method=S256&nonce=Y_KV04Zc5s4VEZur51Ghow&state=HhvqhClrJNa3kYe2BVPA1w&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DjgbMlG0DghmHZpfJ7-qtweUsnJNmbC6EIzy3YTnCbFs%26code_challenge_method%3DS256%26nonce%3DY_KV04Zc5s4VEZur51Ghow%26state%3DHhvqhClrJNa3kYe2BVPA1w%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dygkf9w8BhR0OtMmyGyAcBYb6gWvIPsolsP3L4lDnE_w&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=M2ajYMK89Hhxc1IAAsRDNRVS1kdoGg-R3EByKYsycX0&code_challenge_method=S256&nonce=lw8Yc3tDEpBrhLI7Pz2woA&state=fVGkI6NUezs9B9Bz0D2EXg&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DM2ajYMK89Hhxc1IAAsRDNRVS1kdoGg-R3EByKYsycX0%26code_challenge_method%3DS256%26nonce%3Dlw8Yc3tDEpBrhLI7Pz2woA%26state%3DfVGkI6NUezs9B9Bz0D2EXg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3D3aWahhPaB7GFQXIgjeUC5X4p0Skj4giULb9a9sKLExc&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=P-cmgHyqNSEOPWSleg98zVQT_5GUgm5cR773ALbeNNI&code_challenge_method=S256&nonce=zO8NXtgbxoNpkHfeUuD7MQ&state=l5-jI4XuZ6pgdoTIgPt78Q&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DP-cmgHyqNSEOPWSleg98zVQT_5GUgm5cR773ALbeNNI%26code_challenge_method%3DS256%26nonce%3DzO8NXtgbxoNpkHfeUuD7MQ%26state%3Dl5-jI4XuZ6pgdoTIgPt78Q%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DXPF0EnjMxDfuv_2oyaPN1-bHyxQ3sYYOcd0ZyAxQIf8&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=QsM_xLqxFWj2_Kz3TNLtoZGKCZ8qiqJ6n3b19K5HO1s&code_challenge_method=S256&nonce=qjOIGH6o21YstCPsYiPy-Q&state=MorOtdiL0SCxyAQhCKYoYA&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DQsM_xLqxFWj2_Kz3TNLtoZGKCZ8qiqJ6n3b19K5HO1s%26code_challenge_method%3DS256%26nonce%3DqjOIGH6o21YstCPsYiPy-Q%26state%3DMorOtdiL0SCxyAQhCKYoYA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DcnornJU-jEUNlueMSDbYPi2tFIj0hMat-Y--i3k4OA0&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=RQbxizDe4UhL8pJ1_grqejiwfcaD568d1V-aFpS-aw0&code_challenge_method=S256&nonce=iF4njgLfv4f-yVLcPUWo9w&state=RtQDkb6O1tGSQJ263cwmQA&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DRQbxizDe4UhL8pJ1_grqejiwfcaD568d1V-aFpS-aw0%26code_challenge_method%3DS256%26nonce%3DiF4njgLfv4f-yVLcPUWo9w%26state%3DRtQDkb6O1tGSQJ263cwmQA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DqloZsjBpPrlMW5iUarpmsfYE8flC1za-KwnzUGm52rU&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=tY0SGPL475N6M_X4ruzFNeueSXqnJqN6FAf7J2V1vBg&code_challenge_method=S256&nonce=uHD2hNAkao3mi688pLrThQ&state=n3-uO-f1Baj77089yqOAFw&ui_locales=de&acr_values=password&prompt=login",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DtY0SGPL475N6M_X4ruzFNeueSXqnJqN6FAf7J2V1vBg%26code_challenge_method%3DS256%26nonce%3DuHD2hNAkao3mi688pLrThQ%26state%3Dn3-uO-f1Baj77089yqOAFw%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZ4ldZ4iiNTaFq3Hg_wAU6Zp5ZqbRBL_S5dlnUmBPgLU&ForceAuth=true&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=VqXpsu8n5HjqEeXaysU6pctpUhXmvwket1j_Q-l4-XE&code_challenge_method=S256&nonce=FUu1Ljh03t0b52W0GkRBwg&state=68U6QKZpCvVZayT5WlaKFA&ui_locales=de&acr_values=password",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DVqXpsu8n5HjqEeXaysU6pctpUhXmvwket1j_Q-l4-XE%26code_challenge_method%3DS256%26nonce%3DFUu1Ljh03t0b52W0GkRBwg%26state%3D68U6QKZpCvVZayT5WlaKFA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DRIKoDwOud-aoK2jS9gVRpBDHyig1DT7tXOe_UsmqSbk&realm=/nettokom&service=Login&locale=de"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/vertrag-waehlen/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=1o0y8DuqTowSvN8_g0xe49ukJi_Xkn2S7gAfUN46Jyo&code_challenge_method=S256&nonce=Jklz69XQkI6eD9qJpYdfGQ&state=CpvQLpx5XflyzVXsk6bnUw&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/activate-esim/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=4FHIhHb0AkNYOuh-rqwVYxiif21GNf8aIrbcL1xxdyQ&code_challenge_method=S256&nonce=6EbtgEdpoel8mZxb-J8-Uw&state=LOgNG5ChGq4g1t6j7OoFHQ&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/change-offer/tariff/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=az2-uhRUDA2PjOK-FnvyI9a2RoajVaBsRiPTmyFwzNY&code_challenge_method=S256&nonce=TZzkMTFkWlzPhlsBoteIhA&state=lX6ImBWuy5IjA57-cLF8MQ&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/manage-special-numbers/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=B99O2Vvh-Zro3UTOjpqZcE4U0qyCdencobOpB1ZSz5s&code_challenge_method=S256&nonce=jzEY7eR02XhYFcsNk-cr3A&state=qws_2runMuqkbrM6kiOklQ&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/product-details-campaign-addon/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=CKiHO_1L0h88Nm-_qP3mi24bsLxScOvZ-e_1TXuv4w8&code_challenge_method=S256&nonce=wZ0oFgvs_RLuaSpeNY7W9g&state=etNAy-rr2gnFcYjDQPgWiQ&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/sicher-kommunizieren/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=CYx9bGb0JC3WbWCREGHDFXmHKmsOJfy3HSrdGqVjd4Y&code_challenge_method=S256&nonce=rgntSo1bgUSem3IKV3VdxA&state=j9mIKRD4Z-lbyOa0n55rvg&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/change-payment/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=DH7L-iiis6I-opRUtT_hnm8W01BYcWodY1QBMc2puAw&code_challenge_method=S256&nonce=AEIaKxXVJxGGix2R2LIt1A&state=KdKRq-E1nBNAuh8aaJhavg&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/campaign/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=eFCJe2gmXE7TzRS0t0QQ8m6q2FI1rlkSN1anuAkqOhw&code_challenge_method=S256&nonce=OXIm16gFpDZT9o_PV1oPug&state=qhz7yNbi8hWfjEBD6dLuAg&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/step-up-auth/kundenkonten-zusammenfuehren/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=EGQk1RCuA40sbjfGkHche5-RLuMxfC-hfcpyM2yhyFQ&code_challenge_method=S256&nonce=mBl035LM2555LtIJxujyKA&state=J8z3A7GpuK_gJa01g_TtRQ&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/edit-password/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=hKb12LrzZPqfoZ6P9FSzb0AVYO59c9j2KHP2x369W9k&code_challenge_method=S256&nonce=rAbyovY_KVJvFYB17WqHLA&state=95Obvvj05Wq2iqmQD2j7lQ&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/product-details-standard-addon/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=jgbMlG0DghmHZpfJ7-qtweUsnJNmbC6EIzy3YTnCbFs&code_challenge_method=S256&nonce=Y_KV04Zc5s4VEZur51Ghow&state=HhvqhClrJNa3kYe2BVPA1w&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/step-up-auth/invoice-tab/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=M2ajYMK89Hhxc1IAAsRDNRVS1kdoGg-R3EByKYsycX0&code_challenge_method=S256&nonce=lw8Yc3tDEpBrhLI7Pz2woA&state=fVGkI6NUezs9B9Bz0D2EXg&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/coms-partner-services/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=P-cmgHyqNSEOPWSleg98zVQT_5GUgm5cR773ALbeNNI&code_challenge_method=S256&nonce=zO8NXtgbxoNpkHfeUuD7MQ&state=l5-jI4XuZ6pgdoTIgPt78Q&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/change-offer/payment/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=QsM_xLqxFWj2_Kz3TNLtoZGKCZ8qiqJ6n3b19K5HO1s&code_challenge_method=S256&nonce=qjOIGH6o21YstCPsYiPy-Q&state=MorOtdiL0SCxyAQhCKYoYA&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/change-offer/summary/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=RQbxizDe4UhL8pJ1_grqejiwfcaD568d1V-aFpS-aw0&code_challenge_method=S256&nonce=iF4njgLfv4f-yVLcPUWo9w&state=RtQDkb6O1tGSQJ263cwmQA&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth2/coms-menu/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=tY0SGPL475N6M_X4ruzFNeueSXqnJqN6FAf7J2V1vBg&code_challenge_method=S256&nonce=uHD2hNAkao3mi688pLrThQ&state=n3-uO-f1Baj77089yqOAFw&ui_locales=de&acr_values=password&prompt=login"
+    },
+    {
+      "url": "https://www.nettokom.de/user/auth/change-offer/",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/oauth2/authorize?client_id=mmnettokomoidcclient&response_type=code&scope=&redirect_uri=https://www.nettokom.de/logged-in-home-page/&code_challenge=VqXpsu8n5HjqEeXaysU6pctpUhXmvwket1j_Q-l4-XE&code_challenge_method=S256&nonce=FUu1Ljh03t0b52W0GkRBwg&state=68U6QKZpCvVZayT5WlaKFA&ui_locales=de&acr_values=password"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D1o0y8DuqTowSvN8_g0xe49ukJi_Xkn2S7gAfUN46Jyo%26code_challenge_method%3DS256%26nonce%3DJklz69XQkI6eD9qJpYdfGQ%26state%3DCpvQLpx5XflyzVXsk6bnUw%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DVu7LoQZKmHMAwelsntzYaJ0984aaoEC1U1MxGef0wBg&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D1o0y8DuqTowSvN8_g0xe49ukJi_Xkn2S7gAfUN46Jyo%26code_challenge_method%3DS256%26nonce%3DJklz69XQkI6eD9qJpYdfGQ%26state%3DCpvQLpx5XflyzVXsk6bnUw%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DVu7LoQZKmHMAwelsntzYaJ0984aaoEC1U1MxGef0wBg&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D4FHIhHb0AkNYOuh-rqwVYxiif21GNf8aIrbcL1xxdyQ%26code_challenge_method%3DS256%26nonce%3D6EbtgEdpoel8mZxb-J8-Uw%26state%3DLOgNG5ChGq4g1t6j7OoFHQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DT2vMy-ELxAmT80RFSrtEgv1EV7icBZ8i7XM7Ej-fkHY&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3D4FHIhHb0AkNYOuh-rqwVYxiif21GNf8aIrbcL1xxdyQ%26code_challenge_method%3DS256%26nonce%3D6EbtgEdpoel8mZxb-J8-Uw%26state%3DLOgNG5ChGq4g1t6j7OoFHQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DT2vMy-ELxAmT80RFSrtEgv1EV7icBZ8i7XM7Ej-fkHY&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3Daz2-uhRUDA2PjOK-FnvyI9a2RoajVaBsRiPTmyFwzNY%26code_challenge_method%3DS256%26nonce%3DTZzkMTFkWlzPhlsBoteIhA%26state%3DlX6ImBWuy5IjA57-cLF8MQ%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3D6btYMBB3HE0kagwlFntsgqkORj8RVY0n7UN18cVXhI4&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3Daz2-uhRUDA2PjOK-FnvyI9a2RoajVaBsRiPTmyFwzNY%26code_challenge_method%3DS256%26nonce%3DTZzkMTFkWlzPhlsBoteIhA%26state%3DlX6ImBWuy5IjA57-cLF8MQ%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3D6btYMBB3HE0kagwlFntsgqkORj8RVY0n7UN18cVXhI4&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DB99O2Vvh-Zro3UTOjpqZcE4U0qyCdencobOpB1ZSz5s%26code_challenge_method%3DS256%26nonce%3DjzEY7eR02XhYFcsNk-cr3A%26state%3Dqws_2runMuqkbrM6kiOklQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DOxjRvDDvlM4hsaD3yuHcVUqeKtP_E-DmY7ikvKDK9SI&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DB99O2Vvh-Zro3UTOjpqZcE4U0qyCdencobOpB1ZSz5s%26code_challenge_method%3DS256%26nonce%3DjzEY7eR02XhYFcsNk-cr3A%26state%3Dqws_2runMuqkbrM6kiOklQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DOxjRvDDvlM4hsaD3yuHcVUqeKtP_E-DmY7ikvKDK9SI&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCKiHO_1L0h88Nm-_qP3mi24bsLxScOvZ-e_1TXuv4w8%26code_challenge_method%3DS256%26nonce%3DwZ0oFgvs_RLuaSpeNY7W9g%26state%3DetNAy-rr2gnFcYjDQPgWiQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dzq7pjY8CwO3ROlHczpcnLCfJpadiGEs1bNPPZHG2RQU&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCKiHO_1L0h88Nm-_qP3mi24bsLxScOvZ-e_1TXuv4w8%26code_challenge_method%3DS256%26nonce%3DwZ0oFgvs_RLuaSpeNY7W9g%26state%3DetNAy-rr2gnFcYjDQPgWiQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dzq7pjY8CwO3ROlHczpcnLCfJpadiGEs1bNPPZHG2RQU&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCYx9bGb0JC3WbWCREGHDFXmHKmsOJfy3HSrdGqVjd4Y%26code_challenge_method%3DS256%26nonce%3DrgntSo1bgUSem3IKV3VdxA%26state%3Dj9mIKRD4Z-lbyOa0n55rvg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DolbmnUoXw8t4b1x6vpQu5ZlKJ8WxFf4N7cOSGmqK98M&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DCYx9bGb0JC3WbWCREGHDFXmHKmsOJfy3HSrdGqVjd4Y%26code_challenge_method%3DS256%26nonce%3DrgntSo1bgUSem3IKV3VdxA%26state%3Dj9mIKRD4Z-lbyOa0n55rvg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DolbmnUoXw8t4b1x6vpQu5ZlKJ8WxFf4N7cOSGmqK98M&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DDH7L-iiis6I-opRUtT_hnm8W01BYcWodY1QBMc2puAw%26code_challenge_method%3DS256%26nonce%3DAEIaKxXVJxGGix2R2LIt1A%26state%3DKdKRq-E1nBNAuh8aaJhavg%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DoXvN5Rjezftfx2y3lV9Jt9mww45zkOP2PYxEdEmXals&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DDH7L-iiis6I-opRUtT_hnm8W01BYcWodY1QBMc2puAw%26code_challenge_method%3DS256%26nonce%3DAEIaKxXVJxGGix2R2LIt1A%26state%3DKdKRq-E1nBNAuh8aaJhavg%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DoXvN5Rjezftfx2y3lV9Jt9mww45zkOP2PYxEdEmXals&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DeFCJe2gmXE7TzRS0t0QQ8m6q2FI1rlkSN1anuAkqOhw%26code_challenge_method%3DS256%26nonce%3DOXIm16gFpDZT9o_PV1oPug%26state%3Dqhz7yNbi8hWfjEBD6dLuAg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DwUtg6L6uLOPKvLW3BYBJjVAffFOx8m1p8J6xlhkl2Bg&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DeFCJe2gmXE7TzRS0t0QQ8m6q2FI1rlkSN1anuAkqOhw%26code_challenge_method%3DS256%26nonce%3DOXIm16gFpDZT9o_PV1oPug%26state%3Dqhz7yNbi8hWfjEBD6dLuAg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DwUtg6L6uLOPKvLW3BYBJjVAffFOx8m1p8J6xlhkl2Bg&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DEGQk1RCuA40sbjfGkHche5-RLuMxfC-hfcpyM2yhyFQ%26code_challenge_method%3DS256%26nonce%3DmBl035LM2555LtIJxujyKA%26state%3DJ8z3A7GpuK_gJa01g_TtRQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZiaUP9Xf43YDZCFfZNdgAa9VrPnrhwYEiduxDxvt5Ms&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DEGQk1RCuA40sbjfGkHche5-RLuMxfC-hfcpyM2yhyFQ%26code_challenge_method%3DS256%26nonce%3DmBl035LM2555LtIJxujyKA%26state%3DJ8z3A7GpuK_gJa01g_TtRQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZiaUP9Xf43YDZCFfZNdgAa9VrPnrhwYEiduxDxvt5Ms&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DhKb12LrzZPqfoZ6P9FSzb0AVYO59c9j2KHP2x369W9k%26code_challenge_method%3DS256%26nonce%3DrAbyovY_KVJvFYB17WqHLA%26state%3D95Obvvj05Wq2iqmQD2j7lQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DeWAFLX1a2qk2Q9l34kQuQA-y6tNlcifdeh5KdrS5aDI&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DhKb12LrzZPqfoZ6P9FSzb0AVYO59c9j2KHP2x369W9k%26code_challenge_method%3DS256%26nonce%3DrAbyovY_KVJvFYB17WqHLA%26state%3D95Obvvj05Wq2iqmQD2j7lQ%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DeWAFLX1a2qk2Q9l34kQuQA-y6tNlcifdeh5KdrS5aDI&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DjgbMlG0DghmHZpfJ7-qtweUsnJNmbC6EIzy3YTnCbFs%26code_challenge_method%3DS256%26nonce%3DY_KV04Zc5s4VEZur51Ghow%26state%3DHhvqhClrJNa3kYe2BVPA1w%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dygkf9w8BhR0OtMmyGyAcBYb6gWvIPsolsP3L4lDnE_w&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DjgbMlG0DghmHZpfJ7-qtweUsnJNmbC6EIzy3YTnCbFs%26code_challenge_method%3DS256%26nonce%3DY_KV04Zc5s4VEZur51Ghow%26state%3DHhvqhClrJNa3kYe2BVPA1w%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3Dygkf9w8BhR0OtMmyGyAcBYb6gWvIPsolsP3L4lDnE_w&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DM2ajYMK89Hhxc1IAAsRDNRVS1kdoGg-R3EByKYsycX0%26code_challenge_method%3DS256%26nonce%3Dlw8Yc3tDEpBrhLI7Pz2woA%26state%3DfVGkI6NUezs9B9Bz0D2EXg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3D3aWahhPaB7GFQXIgjeUC5X4p0Skj4giULb9a9sKLExc&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DM2ajYMK89Hhxc1IAAsRDNRVS1kdoGg-R3EByKYsycX0%26code_challenge_method%3DS256%26nonce%3Dlw8Yc3tDEpBrhLI7Pz2woA%26state%3DfVGkI6NUezs9B9Bz0D2EXg%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3D3aWahhPaB7GFQXIgjeUC5X4p0Skj4giULb9a9sKLExc&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DP-cmgHyqNSEOPWSleg98zVQT_5GUgm5cR773ALbeNNI%26code_challenge_method%3DS256%26nonce%3DzO8NXtgbxoNpkHfeUuD7MQ%26state%3Dl5-jI4XuZ6pgdoTIgPt78Q%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DXPF0EnjMxDfuv_2oyaPN1-bHyxQ3sYYOcd0ZyAxQIf8&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DP-cmgHyqNSEOPWSleg98zVQT_5GUgm5cR773ALbeNNI%26code_challenge_method%3DS256%26nonce%3DzO8NXtgbxoNpkHfeUuD7MQ%26state%3Dl5-jI4XuZ6pgdoTIgPt78Q%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DXPF0EnjMxDfuv_2oyaPN1-bHyxQ3sYYOcd0ZyAxQIf8&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DQsM_xLqxFWj2_Kz3TNLtoZGKCZ8qiqJ6n3b19K5HO1s%26code_challenge_method%3DS256%26nonce%3DqjOIGH6o21YstCPsYiPy-Q%26state%3DMorOtdiL0SCxyAQhCKYoYA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DcnornJU-jEUNlueMSDbYPi2tFIj0hMat-Y--i3k4OA0&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DQsM_xLqxFWj2_Kz3TNLtoZGKCZ8qiqJ6n3b19K5HO1s%26code_challenge_method%3DS256%26nonce%3DqjOIGH6o21YstCPsYiPy-Q%26state%3DMorOtdiL0SCxyAQhCKYoYA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DcnornJU-jEUNlueMSDbYPi2tFIj0hMat-Y--i3k4OA0&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DRQbxizDe4UhL8pJ1_grqejiwfcaD568d1V-aFpS-aw0%26code_challenge_method%3DS256%26nonce%3DiF4njgLfv4f-yVLcPUWo9w%26state%3DRtQDkb6O1tGSQJ263cwmQA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DqloZsjBpPrlMW5iUarpmsfYE8flC1za-KwnzUGm52rU&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DRQbxizDe4UhL8pJ1_grqejiwfcaD568d1V-aFpS-aw0%26code_challenge_method%3DS256%26nonce%3DiF4njgLfv4f-yVLcPUWo9w%26state%3DRtQDkb6O1tGSQJ263cwmQA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DqloZsjBpPrlMW5iUarpmsfYE8flC1za-KwnzUGm52rU&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DtY0SGPL475N6M_X4ruzFNeueSXqnJqN6FAf7J2V1vBg%26code_challenge_method%3DS256%26nonce%3DuHD2hNAkao3mi688pLrThQ%26state%3Dn3-uO-f1Baj77089yqOAFw%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZ4ldZ4iiNTaFq3Hg_wAU6Zp5ZqbRBL_S5dlnUmBPgLU&ForceAuth=true&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DtY0SGPL475N6M_X4ruzFNeueSXqnJqN6FAf7J2V1vBg%26code_challenge_method%3DS256%26nonce%3DuHD2hNAkao3mi688pLrThQ%26state%3Dn3-uO-f1Baj77089yqOAFw%26ui_locales%3Dde%26acr_values%3Dpassword%26prompt%3D%26acr%3Dpassword%26acr_sig%3DZ4ldZ4iiNTaFq3Hg_wAU6Zp5ZqbRBL_S5dlnUmBPgLU&ForceAuth=true&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://login-ciam.nettokom.de/signin/authRouter?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DVqXpsu8n5HjqEeXaysU6pctpUhXmvwket1j_Q-l4-XE%26code_challenge_method%3DS256%26nonce%3DFUu1Ljh03t0b52W0GkRBwg%26state%3D68U6QKZpCvVZayT5WlaKFA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DRIKoDwOud-aoK2jS9gVRpBDHyig1DT7tXOe_UsmqSbk&realm=/nettokom&service=Login&locale=de",
+      "status": "302 Found Redirect: https://login-ciam.nettokom.de/signin/XUI/?goto=https%3A%2F%2Flogin-ciam.nettokom.de%2Fsignin%2Foauth2%2Fauthorize%3Fclient_id%3Dmmnettokomoidcclient%26response_type%3Dcode%26scope%3D%26redirect_uri%3Dhttps%3A%2F%2Fwww.nettokom.de%2Flogged-in-home-page%2F%26code_challenge%3DVqXpsu8n5HjqEeXaysU6pctpUhXmvwket1j_Q-l4-XE%26code_challenge_method%3DS256%26nonce%3DFUu1Ljh03t0b52W0GkRBwg%26state%3D68U6QKZpCvVZayT5WlaKFA%26ui_locales%3Dde%26acr_values%3Dpassword%26acr%3Dpassword%26acr_sig%3DRIKoDwOud-aoK2jS9gVRpBDHyig1DT7tXOe_UsmqSbk&realm=/nettokom&service=Login&locale=de#login/"
+    },
+    {
+      "url": "https://www.nettokom.de/testpages/test-page/",
       "status": "404 Not Found"
     },
     {
-      "url": "https://galltec-mela.de/fr/produits/catalogue-de-produits/",
+      "url": "https://www.nettokom.de/testpages/test-page/test-page-shilpi/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.nettokom.de/testpages/prepaid-tarife-4/",
       "status": "404 Not Found"
     }
   ],
-  "errorCountMessage": "{\"E_301\":3,\"E_404\":2}",
+  "errorCountMessage": "{\"E_301\":3,\"E_302\":51,\"E_404\":3}",
   "error": null
 }
