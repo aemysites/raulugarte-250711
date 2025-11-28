@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -39,7 +40,6 @@
   margin: 0;
 }
 
-/* Center block as a visual unit, add side padding, smaller gap */
 .columns.columns48 > div {
   max-width: 900px;
   margin: 0 auto;
@@ -55,7 +55,6 @@
   position: relative;
 }
 
-/* Icon stack: not flush left, fixed width, no extra margin */
 .columns.columns48 > div > div:first-child {
   position: relative;
   width: 90px;
@@ -67,7 +66,6 @@
   flex-shrink: 0;
 }
 
-/* SVG backgrounds for icon stack and magnifier */
 .columns.columns48 > div > div:first-child::before {
   display: block;
   width: 56px;
@@ -93,7 +91,6 @@
   content: "";
 }
 
-/* Right column: max width, center children */
 .columns.columns48 > div > div:last-child {
   display: flex;
   flex-direction: column;
@@ -106,7 +103,6 @@
   padding-left: 0;
 }
 
-/* Typography and spacing */
 .columns.columns48 h2 {
   color: #fff;
   font-size: 22px;
@@ -159,7 +155,6 @@
   content: "";
 }
 
-/* Responsive adjustments */
 @media (width <= 1100px) {
   .columns.columns48 > div {
     max-width: 100vw;
@@ -202,4 +197,184 @@
     margin-bottom: 16px;
     height: 140px;
   }
+}
+
+
+.columns.columns17 {
+  background: #11284a;
+  position: relative;
+  padding: 48px 0;
+  overflow: hidden;
+  color: #fff;
+  z-index: 1;
+}
+
+/* --- Layout: Three columns, tighter middle column, use Flexbox for outer row --- */
+.columns.columns17 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 24px;
+  width: 100%;
+}
+
+@media (width <= 900px) {
+  .columns.columns17 > div {
+    flex-direction: column;
+    gap: 32px;
+  }
+}
+
+/* --- COLUMN WIDTHS: make middle navigation column slightly narrower --- */
+.columns.columns17 > div > div:nth-child(1) {
+  flex: 1 1 0;
+  min-width: 200px;
+  max-width: 350px;
+}
+
+.columns.columns17 > div > div:nth-child(2) {
+  flex: 0.9 1 0;
+  min-width: 220px;
+  max-width: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0;
+}
+
+.columns.columns17 > div > div:nth-child(3) {
+  flex: 1 1 0;
+  min-width: 200px;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* --- Left column: accent header, white text, underline links --- */
+.columns.columns17 > div > div:nth-child(1) h3 {
+  color: #45a9e1;
+  font-weight: 400;
+  font-size: 1.15rem;
+  margin: 0 0 18px;
+  line-height: 1.4;
+}
+
+.columns.columns17 > div > div:nth-child(1) p {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0 0 8px;
+  line-height: 1.6;
+}
+
+.columns.columns17 > div > div:nth-child(1) a {
+  color: #45a9e1;
+  text-decoration: underline;
+}
+
+/* --- Middle column: NAVIGATION LINKS --- */
+
+/* Navigation link containers: horizontal line, compact spacing */
+.columns.columns17 > div > div:nth-child(2) .button-container {
+  width: 100%;
+  margin: 0;
+  padding-bottom: 0;
+  border-bottom: 1px solid #45a9e1;
+  display: flex;
+  align-items: center;
+  min-height: 36px;
+}
+
+.columns.columns17 > div > div:nth-child(2) .button-container:last-child {
+  border-bottom: none;
+}
+
+/* Navigation links: left-aligned, chevron SVG background, compact width */
+.columns.columns17 > div > div:nth-child(2) .button {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: #fff;
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: left;
+  margin: 0;
+  padding: 0 0 0 18px;
+  width: auto;
+  min-width: 0;
+  border-radius: 0;
+  display: inline-block;
+  position: relative;
+  line-height: 2;
+  transition: color 0.2s;
+  vertical-align: middle;
+  background-image: url('data:image/svg+xml;utf8,<svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><text x="1" y="11" font-size="12" fill="%2345a9e1">&#8250;</text></svg>');
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 14px 14px;
+}
+
+.columns.columns17 > div > div:nth-child(2) .button:hover,
+.columns.columns17 > div > div:nth-child(2) .button:focus {
+  color: #45a9e1;
+}
+
+/* Remove extra spacing between nav links */
+.columns.columns17 > div > div:nth-child(2) .button-container + .button-container {
+  margin-top: 0;
+}
+
+/* --- Right column: white text, top aligned --- */
+
+.columns.columns17 > div > div:nth-child(3) p {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0 0 18px;
+  line-height: 1.6;
+}
+
+/* --- Remove default button and anchor styles inside block for specificity --- */
+.columns.columns17 .button,
+.columns.columns17 a.button {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: #fff;
+  border-radius: 0;
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: left;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Decorative background at top: wave SVG */
+.columns.columns17::before {
+  display: block;
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 120px;
+  width: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="1500" height="120" xmlns="http://www.w3.org/2000/svg"><path d="M0,40 Q400,120 900,20 T1500,80 L1500,0 L0,0 Z" fill="%230c365f" opacity="0.6"/></svg>') no-repeat top left;
+  background-size: cover;
+  z-index: 0;
+  pointer-events: none;
+  content: "";
+}
+
+.columns.columns17 > div,
+.columns.columns17 > div > div {
+  position: relative;
+  z-index: 2;
+}
+
+/* Ensure all columns start at same vertical position */
+.columns.columns17 > div > div {
+  align-self: flex-start;
 }
